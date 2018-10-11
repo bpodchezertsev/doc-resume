@@ -16,7 +16,7 @@
 - embedded (occasionally since 1996)
 
 **Specialization**:
-- teamlead/archictect/chief programmer/system programmer
+- teamlead/architect/chief programmer/system programmer
 - software architect & development
 - frameworks creation
 - global optimizations/refactoring/cleanup
