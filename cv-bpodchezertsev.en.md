@@ -24,7 +24,7 @@
 
 **Programming languages**: Java, Python, Object Pascal(Delphi, Lazarus).
 
-**Specialization**: MQ, telephony.
+**Specialization**: MQ, telephony, prototyping.
 
 **OS**: Linux, Windows.
 
