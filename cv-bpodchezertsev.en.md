@@ -2,7 +2,7 @@
 
 ## 2019-present Faberlic
 
-**Links**: <http://faberlic.com>
+**Links**: <https://faberlic.com>
 
 **Position**: Programmer.
 
@@ -16,9 +16,9 @@
 
 **Position**: Freelancer
 
-## 2015-2016 Servionica
+## 2015-2017 Servionica
 
-**Links**: <http://servionica.ru>
+**Links**: <https://servionica.ru>
 
 **Position**: Chief engineer-designer.
 
