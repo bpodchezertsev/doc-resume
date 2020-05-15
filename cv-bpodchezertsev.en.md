@@ -1,6 +1,18 @@
 # CV: Boris Podchezertsev
 
-## 2019-present Faberlic
+## 2020 1C
+
+**Links**: <https://1c.ru/eng/title.htm>
+
+**Position**: Programmer.
+
+**Programming languages**: Java.
+
+**Specialization**: internal tools, refactoring.
+
+**OS**: Windows.
+
+## 2019 Faberlic
 
 **Links**: <https://faberlic.com>
 
@@ -30,7 +42,7 @@
 
 ## 2012-2015 RusTeleSys
 
-**Links**: <http://rustelesys.com> <http://rustelesys.ru> <http://распознавание-номеров.рф>
+**Links**: <http://rustelesys.com> <http://rustelesys.ru>
  
 **Specialization**: License plate recognition.
 
