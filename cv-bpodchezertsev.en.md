@@ -239,6 +239,7 @@ Support Clipper-based software.
 **New projects**:
 * Internal storage support system. Delphi.
 * Utilities for financial document convertations, parsing, union, generation, printing etc.
+* Exchange office UI. Clipper. (Cancelled)
 
 ## 1996-1998 Prais Telecom
 
