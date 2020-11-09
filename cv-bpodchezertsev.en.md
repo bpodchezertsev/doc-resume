@@ -1,5 +1,21 @@
 # CV: Boris Podchezertsev
 
+## 2020 iFellow
+
+**Links**: <https://ifellow.ru>
+
+**Position**: Chief programmer.
+
+**Programming languages**: Java, Javascript.
+
+**Specialization**: refactoring.
+
+**Stack**: JSP, JSF, microservices.
+
+*Fully implemented by me:* new PDF report generator for AcroForms implemented with PDFBox.
+
+**OS**: Windows, Linux.
+
 ## 2020 1C
 
 **Links**: <https://1c.ru/eng/title.htm>
@@ -10,7 +26,7 @@
 
 **Specialization**: internal tools, refactoring.
 
-**OS**: Windows.
+**OS**: Windows, Linux.
 
 ## 2019 Faberlic
 
@@ -20,7 +36,7 @@
 
 **Programming languages**: Java.
 
-**Specialization**: microservices, prototyping.
+**Specialization**: microservices, prototyping, internal tools.
 
 **OS**: Windows.
 
@@ -133,12 +149,12 @@ Fully made by me part: DB-layer (Jook-like).
 
 Invited to develop a new report generator to replace the old.
 
-The project is fully implemented and introduced me:
+The project is fully implemented and introduced by me:
 
 Report generator for MS Excel: Java, Delphi 5-7, VBA, firebird.
 
 - Logical data structure representation based on existing or new data sources, data source union, data operations: application server (Java) + GUI client (Delphi)
-- Micro-sripting language for data operations on server (data sources operations) and client (data source operations and functional-reactive forms)
+- Micro-scripting language for data operations on server (data sources operations) and client (data source operations and functional-reactive forms)
 - Markup language for templates in Excel.
 - Tables/trees/matrices with grouping.
 - User extensions via Excel VBA.
@@ -245,6 +261,18 @@ Support Clipper-based software.
 * TSC-2. Renovation of TSC-1-32bit for unify protocols, configurations, routing.
 * Further development of embedded software for new experimental telephone exchange system (Watcom C).
 
+## 1995 Corvus
+
+**Specialization**: Banking software.
+
+**Position**: Programmer.
+ 
+**Programming languages**: Clipper 5-6, Pascal.
+
+**Projects**: Structural table-tree parser (excel/flat tables source) and convertor (to multilevel relational-linked tables), template parser, code improvements etc.
+
+**OS**: Windows 3-95, DOS
+
 ## 1992-1995 MSMU (Moscow State Mining University), Department of Surveying and Geology
 
 **Links**: <http://msmu.misis.ru/index.php/ru>
@@ -274,8 +302,8 @@ Support Clipper-based software.
 
 **Profession**: technician-mathematician-programmer.
 
-**Programming languages**: Pascal (Turbo Pascal 2-6, Borland Pascal 7), Assembler (Turbo Assembler 1-2), Clipper’87, DBF, C, GWBasic, DOS batch files.
+**Programming languages**: Pascal (Turbo Pascal 2-6, Borland Pascal 7), Assembler (Turbo Assembler 1-2), Clipper’87, C, GWBasic, DOS batch files.
 
-**Key features**: OOP, interrupt handling, TSR, background tasks, low-level hardware access, drivers, graphics, expression parsing, symbolic math, shell scripts, Turbo Vision. 
+**Key features**: OOP, interrupt handling, TSR, background tasks, low-level hardware access, drivers, graphics, expression parsing, symbolic math, shell scripts, DBF, Turbo Vision. 
  
 **OS**: DOS 2-5, desqview.

@@ -1,5 +1,21 @@
 # CV: Борис Подчезерцев
 
+## 2020 iFellow
+
+**Ссылки**: <https://ifellow.ru>
+
+**Должность**: Ведущий программист.
+
+**Языки программирования**: Java, Javascript.
+
+**Specialization**: рефакторинг.
+
+**Stack**: JSP, JSF, microservices.
+
+*Полностью выполнено мною:* новый генератор PDF для AcroForms, сделанный с использованием PDFBox.
+
+**OS**: Windows, Linux.
+
 ## 2020 1C
 
 **Ссылки**: <https://faberlic.com>
@@ -10,7 +26,7 @@
 
 **Специализация**: внутренние инструменты, рефакторинг.
 
-**OS**: Windows.
+**OS**: Windows, Linux.
 
 ## 2019 Faberlic
 
@@ -20,7 +36,7 @@
 
 **Языки программирования**: Java.
 
-**Специализация**: микросервисы, прототипирование.
+**Специализация**: микросервисы, прототипирование, внутренние инструменты.
 
 **OS**: Windows.
 
@@ -223,6 +239,7 @@
 **Новые проекты**:
 * Внутренний склад. Проектирование и реализация. Delphi.
 * Различные мелкие утилиты для конвертации, консолидации, печати и проч.
+* АРМ обменного пункта. Clipper. (Отменён)
 
 ## 1996-1998 Праис Телеком
 
@@ -244,6 +261,19 @@
 * СТО-1-32bit. Переработка СТО для работы в Win32.
 * СТО-2. Переработка СТО для унифицированной работы с пакетами, конфигурациями, маршрутизацией.
 * Доработки встроенного ПО для новой экспериментальной АТС (Watcom C).
+
+## 1995 Corvus
+
+**Специализация**: Банковское ПО.
+
+**Должность**: Программист.
+ 
+**Языки программирования**: Clipper 5-6, Pascal.
+
+**Проекты**: Структурный парсер древоподобных таблиц (из excel или плоских таблиц) и конвертер (в многоуровневые реляционно-связанные таблицы), парсер шаблонов, улушения кода и прочее.
+
+**OS**: Windows 3-95, DOS
+
 
 ## 1992-1995 МГГУ, кафедра маркшейдерского дела и геологии
 
@@ -274,8 +304,8 @@
 
 **Специальность**: техник-математик-программист.
 
-**Языки программирования**: Pascal (Turbo Pascal 2-6, Borland Pascal 7), Assembler (Turbo assembler 1-2), Clipper’87, DBF, C, GWBasic, DOS batch files.
+**Языки программирования**: Pascal (Turbo Pascal 2-6, Borland Pascal 7), Assembler (Turbo assembler 1-2), Clipper’87, C, GWBasic, DOS batch files.
 
-**Ключевые техники**: OOP, interrupt handling, TSR, background tasks, low-level hardware access, drivers, graphics, expression parsing, symbolic math, shell scripts, Turbo Vision 
+**Ключевые техники**: OOP, interrupt handling, TSR, background tasks, low-level hardware access, drivers, graphics, expression parsing, symbolic math, shell scripts, DBF, Turbo Vision 
  
 **OS**: DOS 2-5, desqview
