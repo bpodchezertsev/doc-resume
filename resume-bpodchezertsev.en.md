@@ -15,6 +15,10 @@
 - Android (occasionally since 2012)
 - embedded (occasionally since 1996)
 
+**Programming techniques**
+- Reactive components NonUI/UI (since 1997)
+- Metadata/MDM (since 1995)
+
 **Specialization**:
 - teamlead/architect/chief programmer/system programmer
 - software architect & development
