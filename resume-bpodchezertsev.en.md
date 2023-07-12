@@ -28,7 +28,7 @@
 - migrations
 - multithreading
 - code review and making guidance
-- interprocess communications and making/working with dll/so
+- interprocess communications
 
 **Mail**: speakingfish@gmail.com
 
