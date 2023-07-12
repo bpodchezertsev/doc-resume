@@ -38,8 +38,6 @@
 
 *Fully implemented by me:* new PDF report generator for AcroForms implemented with PDFBox.
 
-**OS**: Windows, Linux.
-
 ## 2020 1C
 
 **Links**: <https://1c.ru/eng/title.htm>
@@ -50,8 +48,6 @@
 
 **Specialization**: internal tools, refactoring.
 
-**OS**: Windows, Linux.
-
 ## 2019 Faberlic
 
 **Links**: <https://faberlic.com>
@@ -61,8 +57,6 @@
 **Programming languages**: Java.
 
 **Specialization**: microservices, prototyping, internal tools.
-
-**OS**: Windows.
 
 ## 2017-2019
 
@@ -77,8 +71,6 @@
 **Programming languages**: Java, Python, Object Pascal(Delphi, Lazarus).
 
 **Specialization**: MQ, telephony, prototyping.
-
-**OS**: Linux, Windows.
 
 ## 2012-2015 RusTeleSys
 
