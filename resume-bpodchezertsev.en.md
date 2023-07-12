@@ -18,7 +18,7 @@
 **Programming techniques**
 - Reactive components NonUI/UI (since 1997)
 - Metadata/MDM (since 1995)
-- Collect data from sources (since 2022)
+- Collect data from source code (since 2022)
 
 **Specialization**:
 - teamlead/architect/chief programmer/system programmer
