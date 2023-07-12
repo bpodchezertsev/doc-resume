@@ -35,4 +35,4 @@
 
 **Habr**: http://habr.com/users/speakingfish
 
-**City**: Moscow, Russia.
+**City**: Yerevan, Armenia.
