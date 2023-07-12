@@ -1,5 +1,29 @@
 # CV: Boris Podchezertsev
 
+## 2022-2023 Syrve
+
+**Links**: <https://syrve.com>
+
+**Position**: Java programmer.
+
+**Programming languages**: Java.
+
+**Specialization**: refactoring, internal tools.
+
+**Stack**: Javaparser, Tomcat, JSP.
+
+## 2021-2022 Iiko
+
+**Links**: <https://iiko.ru>
+
+**Position**: Java programmer.
+
+**Programming languages**: Java.
+
+**Specialization**: refactoring, internal tools.
+
+**Stack**: Javaparser, Tomcat, JSP.
+
 ## 2020 iFellow
 
 **Links**: <https://ifellow.ru>
