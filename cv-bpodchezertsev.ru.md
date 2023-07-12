@@ -1,5 +1,29 @@
 # CV: Борис Подчезерцев
 
+## 2022-2023 Syrve
+
+**Ссылки**: <https://syrve.com>
+
+**Должность**: Java programmer.
+
+**Языки программирования**: Java.
+
+**Специализация**: refactoring, internal tools.
+
+**Stack**: Javaparser, Tomcat, JSP.
+
+## 2021-2022 Iiko
+
+**Ссылки**: <https://iiko.ru>
+
+**Должность**: Java programmer.
+
+**Языки программирования**: Java.
+
+**Специализация**: refactoring, internal tools.
+
+**Stack**: Javaparser, Tomcat, JSP.
+
 ## 2020 iFellow
 
 **Ссылки**: <https://ifellow.ru>
@@ -8,7 +32,7 @@
 
 **Языки программирования**: Java, Javascript.
 
-**Specialization**: рефакторинг.
+**Специализация**: рефакторинг.
 
 **Stack**: JSP, JSF, microservices.
 
@@ -18,15 +42,13 @@
 
 ## 2020 1C
 
-**Ссылки**: <https://faberlic.com>
+**Ссылки**: <https://1c.ru/eng/title.htm>
 
 **Должность**: Программист.
 
 **Языки программирования**: Java.
 
 **Специализация**: внутренние инструменты, рефакторинг.
-
-**OS**: Windows, Linux.
 
 ## 2019 Faberlic
 
@@ -37,8 +59,6 @@
 **Языки программирования**: Java.
 
 **Специализация**: микросервисы, прототипирование, внутренние инструменты.
-
-**OS**: Windows.
 
 ## С 2017-2019
 
@@ -53,8 +73,6 @@
 **Языки программирования**: Java, Python, Object Pascal(Delphi, FPC/Lazarus).
 
 **Специализация**: MQ, телефония, прототипирование
-
-**OS**: Linux, Windows.
 
 ## 2012-2015 РусТелеСис
 
