@@ -8,9 +8,9 @@
 
 **Programming languages**: Java.
 
-**Specialization**: refactoring, internal tools.
+**Specialization**: Productivization, refactoring, internal tools, model collection (reflection+javaparser), data modeling, model transformations, code generation.
 
-**Stack**: Javaparser, Tomcat, JSP.
+**Stack**: internal tools, Javaparser, Tomcat, JSP.
 
 ## 2021-2022 Iiko
 
@@ -20,9 +20,9 @@
 
 **Programming languages**: Java.
 
-**Specialization**: refactoring, internal tools.
+**Specialization**: Productivization, refactoring, internal tools, model collection (reflection+javaparser), data modeling, model transformations, code generation.
 
-**Stack**: Javaparser, Tomcat, JSP.
+**Stack**: internal tools, Javaparser, Tomcat, JSP.
 
 ## 2020 iFellow
 
