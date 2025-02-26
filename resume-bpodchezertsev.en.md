@@ -1,39 +1,43 @@
-# Resume: Boris Podchezertsev
+# Re: Boris Podchezertsev
 
-**Programming languages**
-- Java (since 2000)
-- C++/C (occasionally since 1996)
-- JavaScript (occasionally since 2008)
-- Python (occasionally since 2015)
-- Assembler (occasionally since 1989)
-- Pascal/Delphi/FPC (since 1988)
-- VBA (2003-2005)
+# Main goal
+To enhance team efficiency today and in the future.
 
-**OS**
-- Linux (since 2008 (Ubuntu), openSUSE since 2011, (occasionally CentOS, Debian))
-- Windows (since 1993)
-- Android (occasionally since 2012)
-- embedded (occasionally since 1996)
+# How I work
+I analyze problems and code to address both immediate and future needs, creating guidelines to prevent future bugs and improve maintainability. I aim to develop solutions with unique features, organizing code predictably.
 
-**Programming techniques**
-- Reactive components NonUI/UI (since 1997)
-- Metadata/MDM (since 1995)
-- Collect data from source code (since 2022)
+# Explanation of the main goal
+I focus on productivity across teams by creating reusable helpers, libraries, APIs, and tools for development, testing, and support teams to improve efficiency and avoid repetitive tasks.
 
-**Specialization**:
-- teamlead/architect/chief programmer/system programmer
-- software architect & development
-- frameworks creation
-- global optimizations/refactoring/cleanup
-- migrations
-- multithreading
-- code review and making guidance
-- interprocess communications
+# How I work explained
+I analyze large codebases for potential improvements, working closely with teams to implement solutions while avoiding unnecessary bureaucracy. I prioritize long-term improvements to prevent recurring issues, with a focus on DDD and clear documentation.
 
-**Mail**: speakingfish@gmail.com
+# Development style
+- Declarative design, DDD, functional design
+- Helper functions and small libraries
+- Generalized algorithms
+- Extensive use of metadata and code generation
+- Good documentation and visual aids
+- Tools for debugging, data collection, and monitoring
 
-**GitHub**: https://github.com/speaking-fish
+# Types of projects
+- frameworks
+- libraries
+- rich UI
+- backend
+- web-client
+- CLI
+- script engines
+- embedded
+- hardware (e.g., testbeds, CNC)
 
-**Habr**: http://habr.com/users/speakingfish
+# Largest projects I've done
+- Complex report generator (~1M lines of code in Java, Delphi, VBA)
+- License plate recognition system refactor (~500K lines)
+- Metadata collectors for restaurant software (~100K lines in Java)
+- Embedded software for telephony hardware (~10K lines in C++)
 
-**City**: Yerevan, Armenia.
+# My latest pet-projects in progress
+- An umbrella software project for multi-language compatibility high-performance libraries (Java, Rust, others)
+- A hardware project to develop omnidirectional drone family (CAD, Python, hands)
+- A sci-fi novel in progress
