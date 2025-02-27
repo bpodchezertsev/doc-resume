@@ -1,5 +1,7 @@
 # Re: Boris Podchezertsev
 
+LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
+
 # Main goal
 To enhance team efficiency today and in the future.
 
@@ -41,3 +43,5 @@ I analyze large codebases for potential improvements, working closely with teams
 - An umbrella software project for multi-language compatibility high-performance libraries (Java, Rust, others)
 - A hardware project to develop omnidirectional drone family (CAD, Python, hands)
 - A sci-fi novel in progress
+
+LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
