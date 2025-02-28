@@ -33,11 +33,11 @@ I analyze large codebases for potential improvements, working closely with teams
 - embedded
 - hardware (e.g., testbeds, CNC)
 
-# Largest projects I've done
-- Complex report generator (~1M lines of code in Java, Delphi, VBA)
-- License plate recognition system refactor (~500K lines)
-- Metadata collectors for restaurant software (~100K lines in Java)
-- Embedded software for telephony hardware (~10K lines in C++)
+# Largest projects I've done by type:
+- Largest fully my code: universal report generator (~1M lines Java, Delphi, VBA)
+- Largest refactoring: refactoring of license plate recognition system (~500k lines FPC/Delphi, Java, C++)
+- Largest metadata workflow: metadata workflow for restaurant software (~100k lines Java)
+- Largest embedded: embedded software for telephony (~10k lines C++)
 
 # My latest pet-projects in progress
 - An umbrella software project for multi-language compatibility high-performance libraries (Java, Rust, others)
