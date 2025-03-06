@@ -90,13 +90,13 @@ Category B. Since 2005, no accidents due to my fault. 10 years of driving experi
 **Work on**: Java Swing UI, libraries, algorithms, optimizations, refactoring, parsing, CI/CD.
 
 **Done entirely by me**:
-- Designing and building stable DDD typesafe APIs.
-- Designing and building libraries that cover all existing cases, fixing bugs, which will help remove or compact a large legacy codebase.
+- Stable DDD typesafe APIs.
+- Libraries that cover all existing cases, fixing bugs, which will help remove or compact a large legacy codebase.
 - Improving debugging productivity by implementing various error detection methods, object tracing, external debugging APIs.
 - Synchronizing the codebase between modules.
-- Implementing a functional style in algorithm handling and UI handling.
-- Building common stable APIs for various internal data structures to allow the use of generic algorithms.
-- Building well-documented code, including not only text but also diagrams and not only comments but also tutorials.
+- Functional style in algorithm handling and UI handling.
+- Common stable APIs for various internal data structures to allow the use of generic algorithms.
+- Well-documented code, including not only text but also diagrams and not only comments but also guidelines.
 
 
 ## 2021 - 2023 Iiko/Syrve
