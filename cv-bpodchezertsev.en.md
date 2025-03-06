@@ -5,8 +5,8 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 # Main goals
 - As a Team Leader: Improve the team's performance today and in the future.
 - As a Business Analyst: Design features as combinations of reusable, long-term parts.
-- As a System Architect: Design the most secure, reusable, and efficient long-term solutions.
-- As a Software Developer: Implement secure, reusable, and efficient long-term solutions with the smallest possible code and useful features per code size.
+- As a System Architect: Design the most safe, reusable, and efficient long-term solutions.
+- As a Software Developer: Implement safe, reusable, and efficient long-term solutions with the smallest possible code and useful features per code size.
 
 # How I work
 - Deeply analyze the code/problem to find ways to fix not only current issues but also future improvements, and create recommendations for that.

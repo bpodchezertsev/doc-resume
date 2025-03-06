@@ -2,17 +2,11 @@
 
 LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
-# Main goal
-To enhance team efficiency today and in the future.
-
-# How I work
-I analyze problems and code to address both immediate and future needs, creating guidelines to prevent future bugs and improve maintainability. I aim to develop solutions with unique features, organizing code predictably.
-
-# Explanation of the main goal
-I focus on productivity across teams by creating reusable helpers, libraries, APIs, and tools for development, testing, and support teams to improve efficiency and avoid repetitive tasks.
-
-# How I work explained
-I analyze large codebases for potential improvements, working closely with teams to implement solutions while avoiding unnecessary bureaucracy. I prioritize long-term improvements to prevent recurring issues, with a focus on DDD and clear documentation.
+# Main goals
+- As a Team Leader: Improve the team's performance today and in the future.
+- As a Business Analyst: Design features as combinations of reusable, long-term parts.
+- As a System Architect: Design the most safe, reusable, and efficient long-term solutions.
+- As a Software Developer: Implement safe, reusable, and efficient long-term solutions with the smallest possible code and useful features per code size.
 
 # Development style
 - Declarative design, DDD, functional design
