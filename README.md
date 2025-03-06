@@ -1,7 +1,7 @@
 # Profile: Boris Podchezertsev
 
 Hello!
-I'm Boris Podchezertsev and I mainly works in software industry.
+My name is Boris Podchezertsev and I work mainly in the software industry.
 
 For my resume look at [resume-bpodchezertsev.en.md](resume-bpodchezertsev.en.md) (English) 
 
