@@ -2,7 +2,7 @@
 
 LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
-# Main goals
+# My goals
 - As a Team Leader: Improve the team's performance today and in the future.
 - As a Business Analyst: Design features as combinations of reusable, long-term parts.
 - As a System Architect: Design the most safe, reusable, and efficient long-term solutions.
