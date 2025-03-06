@@ -106,7 +106,7 @@ Syrve is a brand used outside of Russia.
 
 **Position**: Senior Software Developer, Systems Analyst, Subsystem Architect, Subsystems Owner. (Java, C#, JSP, Javascript, PHP)
 
-**Outdoor activity with colleagues**: Driving to Armenia.
+**Outdoor activity with colleagues**: Travelling by car in Armenia.
 
 **Work on**: Backend, GUI, JSP, Tomcat, Spring, Hibernate, MSSQL/Postgres, MQ, CLI, data models, code generation, metrics, CI/CD.
 
