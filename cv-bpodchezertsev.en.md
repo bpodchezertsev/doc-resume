@@ -135,7 +135,7 @@ Syrve is a brand used outside of Russia.
 
 **About**: 1C is the most popular (and most hated) accounting platform in Russia.
 
-**Job**: Senior Software Developer, Systems Analyst. (Java, Javascript)
+**Position**: Senior Software Developer, Systems Analyst. (Java, Javascript)
 
 **Work on**: Maven plugin, Eclipse EMF (XCore, ECore), code generation, refactoring
 
@@ -228,7 +228,7 @@ I like sharing my experience with the team. I like teaching colleagues to do som
 **About**: Quorum was one of the leading providers of banking software in Russia at that time. And one of the outsourcing companies.
 In those years, the company is trying to move to modern technologies by creating various experimental banking platforms, workflows and tools.
 
-**Job**: Software Developer, Team Leader, Systems Analyst, Systems Architect, Hardware Interface Integrator, Subsystems Owner. (Object Pascal/Delphi, Assembler, Java)
+**Position**: Software Developer, Team Leader, Systems Analyst, Systems Architect, Hardware Interface Integrator, Subsystems Owner. (Object Pascal/Delphi, Assembler, Java)
 
 **Comment**: My first encounter with Java.
 
