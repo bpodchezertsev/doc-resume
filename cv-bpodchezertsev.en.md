@@ -146,7 +146,6 @@ I also added traceable configurations, made it easier to point to file subsystem
 ## 2019 Faberlic
 
 **About**: Faberlic is one of the leading direct marketing companies in Russia.
-
 In these years, Faberlic has been working on migrating from its own software to other platforms.
 
 **Position**: Senior Software Developer
