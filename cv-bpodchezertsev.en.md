@@ -154,9 +154,9 @@ In these years, Faberlic has been working on migrating from its own software to 
 **Work on**: Microservices, Docker, Spring, Oracle/Postgres, tools, CI/CD. (Java, Javascript, PHP)
 
 **Done entirely by me**:
-- I create a library with a single configuration point to easily wrap many Oracle PLSQL stored procedures into microservices to avoid manual creation of microservices.
-- I create universal unit tests to check the completeness of the implementation of some functions for unknown data objects based on the collected metadata.
-- I create debugging tools, synchronization tools, convert code between languages, etc.
+- Library with a single configuration point to easily wrap many Oracle PLSQL stored procedures into microservices to avoid manual creation of microservices.
+- Universal unit tests to check the completeness of the implementation of some functions for unknown data objects based on the collected metadata.
+- Debugging tools, synchronization tools, convert code between languages, etc.
 
 
 ## 2015-2017 Servionica
