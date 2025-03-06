@@ -206,7 +206,7 @@ I like sharing my experience with the team. I like teaching colleagues to do som
 
 ## 2003 - 2005 BSS/BFT
 
-**About**: This years BFT is one of the leading integrators of budget financial processes in Russia, presenting its own systems and automated workflows.
+**About**: In those years BFT is one of the leading integrators of budget financial processes in Russia, presenting its own systems and automated workflows.
 
 **Position**: Lead Software Developer, Team Leader, System Architect, System Analyst, Project Owner. (Java, Delphi, VBA)
 
