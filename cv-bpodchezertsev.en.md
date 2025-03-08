@@ -50,7 +50,7 @@ and documenting well with cross-references to the same aspects.
 - embedded
 - hardware (e.g., testbeds, CNC)
 
-# Largest projects with all my own design and implementation that I've done by type:
+# Largest projects with all my own design and implementation that I've done by type
 - Largest project I made: Universal report generator: ~1M lines Java, Delphi, VBA. (Also my largest multilanguage scripting engines and metadata-based operations.)
 - Largest refactoring (+migrations +extensions) I made: Licence plate recognition systems: ~500K lines of FPC/Lazarus/Delphi, Java, C++.
 - Largest metadata collectors & code generators I made: Iiko/Syrve restaurant software: ~100K lines of Java
@@ -210,7 +210,7 @@ I like sharing my experience with the team. I like teaching colleagues to do som
 
 **Position**: Lead Software Developer, Team Leader, System Architect, System Analyst, Project Owner. (Java, Delphi, VBA)
 
-**Comment**: I was invited to develop a new report generator to replace the old one. I am designing and implementing my largest in-house project here: ~1 million lines of java, delphi, VBA. (Also my largest multilingual functional script engines)
+**Comment**: I was invited to develop a new report generator to replace the old one. I designed and built my largest fully my own project here: ~1 million lines of java, delphi, VBA. (Also my largest multilingual functional script engines)
 
 **Work on**: Backend, GUI, Excel VBA, Oracle/MSSQL/Firebird, parsing, functional script engines, workflow.
 
