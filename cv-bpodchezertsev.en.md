@@ -104,7 +104,7 @@ Category B. Since 2005, no accidents due to my fault. 10 years of driving experi
 ## 2021 - 2023 Iiko/Syrve
 
 **About**: Iiko is one of the leading restaurant software platforms in Russia and the most complex.
-Syrve is a brand used outside of Russia.
+Syrve is a brand that originated from Iiko.
 
 **Title**: Senior Java Developer
 
