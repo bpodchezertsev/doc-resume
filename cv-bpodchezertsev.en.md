@@ -83,6 +83,8 @@ Category B. Since 2005, no accidents due to my fault. 10 years of driving experi
 
 **About**: Dukascopy is a Swiss banking and trading company.
 
+**Title**: Senior Java Developer.
+
 **Position**: Senior Java Developer, Systems Analyst. Contract work.
 
 **Comment**: My first job at a trader. My second job at a bank.
@@ -104,6 +106,8 @@ Category B. Since 2005, no accidents due to my fault. 10 years of driving experi
 **About**: Iiko is one of the leading restaurant software platforms in Russia and the most complex.
 Syrve is a brand used outside of Russia.
 
+**Title**: Senior Java Developer
+
 **Position**: Senior Software Developer, Systems Analyst, Subsystem Architect, Subsystems Owner. (Java, C#, JSP, Javascript, PHP)
 
 **Outdoor activity with colleagues**: Travelling by car in Armenia.
@@ -122,6 +126,8 @@ Syrve is a brand used outside of Russia.
 
 **About**: IFellow is an outstaffing company in Russia.
 
+**Title**: Senior Java Developer
+
 **Position**: Senior Software Developer, Systems Analyst. (Java, Jelly, JSP, Javascript)
 
 **Comment**: My first job in an outstaffing company.
@@ -134,6 +140,8 @@ Syrve is a brand used outside of Russia.
 ## 2020 1C
 
 **About**: 1C is the most popular (and most hated) accounting platform in Russia.
+
+**Title**: Senior Java Developer
 
 **Position**: Senior Software Developer, Systems Analyst. (Java, Javascript)
 
@@ -148,9 +156,11 @@ I also added traceable configurations, made it easier to point to file subsystem
 **About**: Faberlic is one of the leading direct marketing companies in Russia.
 In these years, Faberlic has been working on migrating from its own software to other platforms.
 
-**Position**: Senior Software Developer
+**Title**: Senior Java Developer
 
-**Work on**: Microservices, Docker, Spring, Oracle/Postgres, tools, CI/CD. (Java, Javascript, PHP)
+**Position**: Senior Software Developer. (Java, Javascript, PHP)
+
+**Work on**: Microservices, Docker, Spring, Oracle/Postgres, tools, CI/CD.
 
 **Done entirely by me**:
 - Library with a single configuration point to easily wrap many Oracle PLSQL stored procedures into microservices to avoid manual creation of microservices.
@@ -162,7 +172,9 @@ In these years, Faberlic has been working on migrating from its own software to 
 
 **About**: Servionica is a part of the ITECO group of companies, one of the leading system integrators in Russia.
 
-**Position**: Senior Software Developer, Team Leader, Systems Analyst, business trips. Contract work. (Java, Delphi/Lazarus, Python)
+**Title**: Lead Systems Designer
+
+**Position**: Lead Software Developer, Team Leader, Systems Analyst, business trips. Contract work. (Java, Delphi/Lazarus, Python)
 
 **Work on**: Backend, GUI, Swing UI, Postgres, telephony, MQ, utilities.
 
@@ -173,7 +185,9 @@ In these years, Faberlic has been working on migrating from its own software to 
 
 **About**: At that time, RusTeleSys had the most powerful license plate recognition system in Russia.
 
-**Position**: Lead Architect, Senior Software Developer, Project owner. (Delphi/Lazarus/FPC, C++, Java, scripts)
+**Title**: Senior Software Developer
+
+**Position**: Lead System Architect, Lead Software Developer, Project owner. (Delphi/Lazarus/FPC, C++, Java, scripts)
 
 **Comment**: I like working with such a degree of freedom, I like working practically with hardware.
 I like sharing my experience with the team. I like teaching colleagues to do something new.
@@ -190,7 +204,9 @@ I like sharing my experience with the team. I like teaching colleagues to do som
 
 **About**: TopS BI was one of the largest independent software integrators in Russia at that time.
 
-**Position**: Lead Developer, Team Leader, System Architect, System Analyst, Subsystem Owner (Java, JSP, Javascript)
+**Title**: Lead Software Developer
+
+**Position**: Lead Java Developer, Team Leader, System Architect, System Analyst, Subsystem Owner (Java, JSP, Javascript)
 
 **Work on**: Backend, Swing UI, modules for various application servers, JSP, Java Web Start, Oracle/Oracle Lite/Sybase/MSSQL, database administration tools, CI/CD.
 
@@ -207,6 +223,8 @@ I like sharing my experience with the team. I like teaching colleagues to do som
 ## 2003 - 2005 BSS/BFT
 
 **About**: In those years BFT is one of the leading integrators of budget financial processes in Russia, presenting its own systems and automated workflows.
+
+**Title**: Lead Software Developer
 
 **Position**: Lead Software Developer, Team Leader, System Architect, System Analyst, Project Owner. (Java, Delphi, VBA)
 
@@ -227,7 +245,9 @@ I like sharing my experience with the team. I like teaching colleagues to do som
 **About**: Quorum was one of the leading providers of banking software in Russia at that time. And one of the outsourcing companies.
 In those years, the company is trying to move to modern technologies by creating various experimental banking platforms, workflows and tools.
 
-**Position**: Software Developer, Team Leader, Systems Analyst, Systems Architect, Hardware Interface Integrator, Subsystems Owner. (Object Pascal/Delphi, Assembler, Java)
+**Title**: Lead Software Developer
+
+**Position**: Lead Software Developer, Team Leader, Systems Analyst, Systems Architect, Hardware Interface Integrator, Subsystems Owner. (Object Pascal/Delphi, Assembler, Java)
 
 **Comment**: My first encounter with Java.
 
@@ -243,6 +263,8 @@ In those years, the company is trying to move to modern technologies by creating
 
 **About**: Altey Laboratories was one of the leading independent Russian integrators of software systems for medical laboratories in those years.
 
+**Title**: System Engineer
+
 **Position**: Software Developer, Local Project Coordinator, Hardware Installer and Support Engineer, Subsystems Owner. (Delphi)
 
 **Work on**: Backend, COM, DCOM, WinAPI, SQL, Interbase/Firebird, communications, multithreading.
@@ -256,7 +278,9 @@ In those years, the company is trying to move to modern technologies by creating
 
 **About**: At that time, FINROS was the largest owner of exchange offices in Moscow.
 
-**Position**: Software developer, Business analyst, Project owner. (Delphi/Object Pascal, Clipper)
+**Title**: Lead Software Developer
+
+**Position**: Lead Software developer, Business analyst, Project owner. (Delphi/Object Pascal, Clipper)
 
 **Comment**: My first job at a bank.
 
@@ -272,6 +296,8 @@ In those years, the company is trying to move to modern technologies by creating
 
 **About**: Prais Telecom is one of the independent manufacturers of telecommunications equipment, developed entirely in Russia in those years.
 
+**Title**: Software Developer
+
 **Position**: Software developer, Embedded Software Developer, Business Analyst, Systems analyst, System Architect, Project owner, Support Engineer. (Delphi/Object Pascal, C++, Optima, embedded systems, assembler)
 
 **Work on**: GUI, hardware interfaces, embedded, communications, multithreading, WinAPI (16/32).
@@ -285,6 +311,8 @@ In those years, the company is trying to move to modern technologies by creating
 
 **About**: Avrora-Region was an advertising company in Moscow.
 
+**Title**: Software Developer
+
 **Position**: Software Developer. Business Analyst. Project Owner. Contract work. (Delphi)
 
 **Done entirely by me**: Applications and reports.
@@ -294,6 +322,8 @@ In those years, the company is trying to move to modern technologies by creating
 
 **About**: Corvus was a small banking software developer in Moscow working for banks in Kazakhstan.
 
+**Title**: Software Developer
+
 **Position**: Software Developer, Support Engineer. (Clipper, Pascal)
 
 **Work on**: Text processing, reporting tools.
@@ -302,6 +332,8 @@ In those years, the company is trying to move to modern technologies by creating
 
 
 ## 1992 - 1995 Moscow State Mining University (MSMU), Department of Surveying and Geology
+
+**Title**: Software Developer
 
 **Position**: Lead Software Developer, System Architect, Business Analyst, Hardware Specialist, Student, Mine Surveyor, Business trips to mines. (Object Pascal, Assembler, Clipper).
 
