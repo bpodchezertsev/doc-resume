@@ -298,7 +298,7 @@ In those years, the company is trying to move to modern technologies by creating
 
 **Title**: Software Developer
 
-**Position**: Software developer, Embedded Software Developer, Business Analyst, Systems analyst, System Architect, Project owner, Support Engineer. (Delphi/Object Pascal, C++, Optima, embedded systems, assembler)
+**Position**: Software Developer, Embedded Software Developer, Business Analyst, Systems analyst, System Architect, Project owner, Support Engineer. (Delphi/Object Pascal, C++, Optima, embedded systems, assembler)
 
 **Work on**: GUI, hardware interfaces, embedded, communications, multithreading, WinAPI (16/32).
 
