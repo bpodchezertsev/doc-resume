@@ -251,7 +251,7 @@ In those years, the company is trying to move to modern technologies by creating
 
 **Comment**: My first encounter with Java.
 
-**Work on**: Backend, GUI, WinAPI(16/32), DOS, DLL, COM, Btrieve/Pervasive/Oracle, multithreading, communication, CLI, parsers, scripting engines, IDEs, hardware interfaces, database administration tools.
+**Work on**: Backend, GUI, WinAPI(16/32), DOS, DLL, COM, Btrieve/Pervasive/Oracle, communications, CLI, parsers, scripting engines, IDEs, hardware interfaces, database administration tools.
 
 **Done entirely by me**:
 - Tools: incremental build and deployment, project management, code generators, hardware interfaces and management consoles.
@@ -267,7 +267,7 @@ In those years, the company is trying to move to modern technologies by creating
 
 **Position**: Software Developer, Local Project Coordinator, Hardware Installer and Support Engineer, Subsystems Owner. (Delphi)
 
-**Work on**: Backend, COM, DCOM, WinAPI, SQL, Interbase/Firebird, communications, multithreading.
+**Work on**: Backend, COM, DCOM, WinAPI, Interbase/Firebird, communications.
 
 **Mostly done by me**:
 - Development of software exchange modules for the laboratory of Polyclinic No. 129 in Moscow. Hardware setup. User support.
@@ -300,7 +300,7 @@ In those years, the company is trying to move to modern technologies by creating
 
 **Position**: Software Developer, Embedded Software Developer, Business Analyst, Systems analyst, System Architect, Project owner, Support Engineer. (Delphi/Object Pascal, C++, Optima, embedded systems, assembler)
 
-**Work on**: GUI, hardware interfaces, embedded, communications, multithreading, WinAPI (16/32).
+**Work on**: GUI, hardware interfaces, embedded, communications, WinAPI (16/32).
 
 **Done entirely by me**:
 - Client-server billing system.
@@ -326,7 +326,7 @@ In those years, the company is trying to move to modern technologies by creating
 
 **Position**: Software Developer, Support Engineer. (Clipper, Pascal)
 
-**Work on**: Text processing, reporting tools.
+**Work on**: Text processing, reporting tools, DOS.
 
 **Done entirely by me**: Parsers, database utilities.
 
@@ -339,7 +339,7 @@ In those years, the company is trying to move to modern technologies by creating
 
 **Outdoor activity with colleagues**: Surveying underground quarries with a mapping group.
 
-**Work on**: Surveying management software, hardware interfaces.
+**Work on**: Surveying management software, hardware interfaces, DOS.
 
 **Done entirely by me**:
 - The fastest (at that time) UI framework with native support for EGA/VGA, plotters, printers, keyboards + surveying applications.
@@ -354,5 +354,5 @@ In those years, the company is trying to move to modern technologies by creating
 
 **Programming languages**: Pascal, Assembler, Clipper, C++, scripts, BASIC.
 
-**Work on**: OOP, interrupt handling, multitasking, hardware access, drivers, graphics, parsing, symbolic mathematics, closures, scripts, UI, CLI, TSR, electronics, analog devices.
+**Work on**: OOP, interrupt handling, multitasking, hardware access, drivers, graphics, parsing, symbolic mathematics, closures, scripts, UI, CLI, TSR, electronics, analog devices, DOS.
 
