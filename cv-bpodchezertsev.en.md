@@ -50,6 +50,36 @@ and documenting well with cross-references to the same aspects.
 - embedded
 - hardware (e.g., testbeds, CNC)
 
+## My UI-related works
+- Metadata-driven UI libraries (+ two-way tools) (Java + Swing, Delphi)
+- Functional-reactive UI libraries and helpers (Java + Swing, Delphi)
+- Functional scripts for UI models and backend models (Java, Delphi)
+- Centralized UI component identification, marshalling, external communications + interactive script consoles (Java, Delphi)
+- GUI facade and remote facade for text-based UI libraries (Pascal, C++, WinAPI)
+- Pure vector GUI and plotting framework (Pascal)
+- High-speed GUI framework with low level hardware programming (Pascal, Assembler)
+- Editors with syntax highlighting, OOP UI wrappers and much more in different languages, including Javascript.
+
+ps. I mainly troubleshoot multithreading issues in many projects, including UI projects.
+
+## My backend-related works
+- Functional scripts for UI models and backend models (Java)
+- GraphQL-like queries from multiple data sources, including the queries themselves (Java)
+- Workers subprocesses sandboxing to avoid instability of native libraries (Java, Delphi, Pascal, C++, OpenCV)
+- Native libraries integrations
+
+- Metadata-driven UI frameworks and libraries (+ two-way tools) (Java + Swing, Delphi)
+- Functional reactive UI frameworks (Java + Swing, Delphi)
+- Functional scripting engines for UI models and backend models (Java, Delphi)
+- Centralized UI component identification, marshalling, external communications, interactive scripting consoles (Java, Delphi)
+- GUI facade and remote facade for text-based UI libraries (Pascal, C++, WinAPI)
+- Pure vector GUI and plotting framework (Pascal)
+- High-speed GUI framework with low level hardware programming (Pascal, Assembler)
+- Editors with syntax highlighting, OOP UI wrappers and much more in different languages, including Javascript.
+
+_I mainly troubleshoot multithreading issues in many projects, including backend projects._
+
+
 # Largest projects with all my own design and implementation that I've done by type
 - Largest project I made: Universal report generator: ~1M lines Java, Delphi, VBA. (Also my largest multilanguage scripting engines and metadata-based operations.)
 - Largest refactoring (+migrations +extensions) I made: Licence plate recognition systems: ~500K lines of FPC/Lazarus/Delphi, Java, C++.
@@ -78,6 +108,25 @@ Category B. Since 2005, no accidents due to my fault. 10 years of driving experi
 
 
 # History
+
+- [2024 Dukascopy](#2024-dukascopy)
+- [2021 Iiko/Syrve](#2021---2023-iikosyrve)
+- [2020 iFellow](#2020-ifellow)
+- [2020 1C](#2020-1c)
+- [2019 Faberlic](#2019-faberlic)
+- [2015-2017 Servionica](#2015-2017-servionica)
+- [2012 - 2015 RusTeleSys](#2012---2015-rustelesys)
+- [2005 - 2011 TopS BI](#2005---2011-tops-bi)
+- [2003 - 2005 BSS/BFT](#2003---2005-bssbft)
+- [1999 - 2003 Quorum](#1999---2003-quorum)
+- [1999 Altey Laboratories](#1999-altey-laboratories)
+- [1998 - 1999 FINROS](#1998---1999-finros)
+- [1996 - 1998 Prais Telecom](#1996---1998-prais-telecom)
+- [1995 Avrora-Region](#1995-avrora-region)
+- [1995 Corvus](#1995-corvus)
+- [1992 - 1995 MSMU](#1992---1995-msmu)
+- [1987 - 1991 MPT](#1987---1991-mpt)
+
 
 ## 2024 Dukascopy
 
@@ -115,16 +164,16 @@ Syrve is a brand that originated from Iiko.
 **Work on**: Backend, GUI, JSP, Tomcat, Spring, Hibernate, MSSQL/Postgres, MQ, CLI, data models, code generation, metrics, CI/CD.
 
 **Done entirely by me**:
-- Data model builder from source code, code generators with generation gap.
+- Data model collectors from source code, code generators with generation-gap.
 - General helper functions for support engineers working with both hot and cold databases.
 - Performance related decorators for time- or memory-critical code.
-- Memory optimization, destructive data transformations, local metadata fixes.
+- Memory optimizations: destructive data transformations, local metadata fixups etc.
 - Metrics collection, debugging helpers creation.
 
 
 ## 2020 iFellow
 
-**About**: IFellow is an outstaffing company in Russia.
+**About**: iFellow is an outstaffing company in Russia.
 
 **Title**: Senior Java Developer
 
@@ -274,9 +323,9 @@ In those years, the company is trying to move to modern technologies by creating
 - Hardware and software support and setup, hardware interfaces and management tools, user support.
 
 
-## 1998 - 1999 Commercial bank «FINROS» Financial Initiative
+## 1998 - 1999 FINROS
 
-**About**: At that time, FINROS was the largest owner of exchange offices in Moscow.
+**About**: At that time, FINROS bank was the largest owner of exchange offices in Moscow.
 
 **Title**: Lead Software Developer
 
@@ -299,6 +348,8 @@ In those years, the company is trying to move to modern technologies by creating
 **Title**: Software Developer
 
 **Position**: Software Developer, Embedded Software Developer, Business Analyst, Systems analyst, System Architect, Project owner, Support Engineer. (Delphi/Object Pascal, C++, Optima, embedded systems, assembler)
+
+**Outdoor activity with colleagues**: Windsurfing.
 
 **Work on**: GUI, hardware interfaces, embedded, communications, WinAPI (16/32).
 
@@ -331,7 +382,9 @@ In those years, the company is trying to move to modern technologies by creating
 **Done entirely by me**: Parsers, database utilities.
 
 
-## 1992 - 1995 Moscow State Mining University (MSMU), Department of Surveying and Geology
+## 1992 - 1995 MSMU
+
+**About**: MSMU is The Moscow State Mining University, where I work and learn at Department of Surveying and Geology
 
 **Title**: Software Developer
 
@@ -346,9 +399,10 @@ In those years, the company is trying to move to modern technologies by creating
 - Vector UI framework with native support for plotter output + surveying applications.
 
 
-## 1987 - 1991 Moscow Instrument-building Technical College, Department of Computer Science
+## 1987 - 1991 MPT
 
-**About**: Moscow Instrument-building Technical College was a small, but the most computerized per student higher education facility in Russia in that years.
+**About**: MPT is The Moscow Instrument-building Technical College, where I learn at Department of Computer Science.
+Moscow Instrument-building Technical College was a small, but the most computerized per student higher education facility in Russia in that years.
 
 **Profession**: Computer science, applied mathematics, analog devices, hardware interfaces.
 
