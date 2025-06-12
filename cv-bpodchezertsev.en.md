@@ -53,32 +53,41 @@ and documenting well with cross-references to the same aspects.
 ## My UI-related works
 - Metadata-driven UI libraries (+ two-way tools) (Java + Swing, Delphi)
 - Functional-reactive UI libraries and helpers (Java + Swing, Delphi)
-- Functional scripts for UI models and backend models (Java, Delphi)
+- Functional scripting engines for UI models and backend models (Java, Delphi)
 - Centralized UI component identification, marshalling, external communications + interactive script consoles (Java, Delphi)
 - GUI facade and remote facade for text-based UI libraries (Pascal, C++, WinAPI)
 - Pure vector GUI and plotting framework (Pascal)
 - High-speed GUI framework with low level hardware programming (Pascal, Assembler)
 - Editors with syntax highlighting, OOP UI wrappers and much more in different languages, including Javascript.
+- Native libraries integrations, including Android.
 
-ps. I mainly troubleshoot multithreading issues in many projects, including UI projects.
+_I mainly troubleshoot multithreading issues in many projects, including UI projects._
 
 ## My backend-related works
 - Functional scripts for UI models and backend models (Java)
 - GraphQL-like queries from multiple data sources, including the queries themselves (Java)
 - Workers subprocesses sandboxing to avoid instability of native libraries (Java, Delphi, Pascal, C++, OpenCV)
-- Native libraries integrations
-
-- Metadata-driven UI frameworks and libraries (+ two-way tools) (Java + Swing, Delphi)
-- Functional reactive UI frameworks (Java + Swing, Delphi)
 - Functional scripting engines for UI models and backend models (Java, Delphi)
-- Centralized UI component identification, marshalling, external communications, interactive scripting consoles (Java, Delphi)
 - GUI facade and remote facade for text-based UI libraries (Pascal, C++, WinAPI)
-- Pure vector GUI and plotting framework (Pascal)
-- High-speed GUI framework with low level hardware programming (Pascal, Assembler)
-- Editors with syntax highlighting, OOP UI wrappers and much more in different languages, including Javascript.
+- Native libraries integrations.
 
 _I mainly troubleshoot multithreading issues in many projects, including backend projects._
 
+
+## My hardware-related works
+- Telephony interfaces, management consoles, configuring and monitoring software, billing services, embedded software (Delphi/Lazarus, Java, C++, Assembler)
+- Computer Vision (OpenCV), IP Cameras (Delphi/Lazarus, Java, C++)
+- APIs and management consoles for fiscal printers. (Delphi)
+- Logging and spy tools for medical devices interfaces. (Delphi)
+- Rendering software for printers and plotters. (Pascal)
+- Improvements, fixes, overview of various hardware testbeds, hardware drivers and other hardware interfaces. (Pascal, Delphi, C++, Assembler)
+- Design, modeling, calculations and creation of drones (C++, Python, OpenSCAD)
+- Installation and maintenance of various hardware.
+- Milling machines, OpenSCAD modeling.
+- Modeling, creation/construction, installation of furniture, kitchens, built-in furniture.
+- Repair: replacement of electrical wiring, ventilation; dismantling, leveling, pouring, sealing of floors, etc.
+
+_I mainly troubleshoot hardware issues in many projects, including side jobs._
 
 # Largest projects with all my own design and implementation that I've done by type
 - Largest project I made: Universal report generator: ~1M lines Java, Delphi, VBA. (Also my largest multilanguage scripting engines and metadata-based operations.)
@@ -91,18 +100,6 @@ _I mainly troubleshoot multithreading issues in many projects, including backend
 - A hardware project of development principal new multipurpose omnidirectional drone family (I use CADs and Python for 3D-modelling and principal modelling).
 - Literature project of hard sci-fi novell in the nearest future.
 
-# Also
-
-## Hardware
-- Improvements, fixes, overview of various hardware testbeds, hardware drivers and other hardware interfaces.
-- Installation and maintenance of hardware.
-
-## DIY
-- Milling machines, OpenSCAD modeling.
-- Design, modeling, calculations and creation of drones.
-- Modeling, creation/construction, installation of furniture, kitchens, built-in furniture.
-- Repair: replacement of electrical wiring, ventilation; dismantling, leveling, pouring, sealing of floors, etc.
-
 ## Driving
 Category B. Since 2005, no accidents due to my fault. 10 years of driving experience in a minivan with a manual transmission.
 
@@ -110,11 +107,11 @@ Category B. Since 2005, no accidents due to my fault. 10 years of driving experi
 # History
 
 - [2024 Dukascopy](#2024-dukascopy)
-- [2021 Iiko/Syrve](#2021---2023-iikosyrve)
+- [2021 - 2023 Iiko/Syrve](#2021---2023-iikosyrve)
 - [2020 iFellow](#2020-ifellow)
 - [2020 1C](#2020-1c)
 - [2019 Faberlic](#2019-faberlic)
-- [2015-2017 Servionica](#2015-2017-servionica)
+- [2015 - 2017 Servionica](#2015---2017-servionica)
 - [2012 - 2015 RusTeleSys](#2012---2015-rustelesys)
 - [2005 - 2011 TopS BI](#2005---2011-tops-bi)
 - [2003 - 2005 BSS/BFT](#2003---2005-bssbft)
@@ -217,7 +214,8 @@ In these years, Faberlic has been working on migrating from its own software to 
 - Debugging tools, synchronization tools, convert code between languages, etc.
 
 
-## 2015-2017 Servionica
+
+## 2015 - 2017 Servionica
 
 **About**: Servionica is a part of the ITECO group of companies, one of the leading system integrators in Russia.
 
@@ -228,6 +226,7 @@ In these years, Faberlic has been working on migrating from its own software to 
 **Work on**: Backend, GUI, Swing UI, Postgres, telephony, MQ, utilities.
 
 **Done entirely by me**: UI based on metadata.
+
 
 
 ## 2012 - 2015 RusTeleSys
@@ -241,7 +240,7 @@ In these years, Faberlic has been working on migrating from its own software to 
 **Comment**: I like working with such a degree of freedom, I like working practically with hardware.
 I like sharing my experience with the team. I like teaching colleagues to do something new.
 
-**Work on**: Backend, GUI, Swing UI, OpenCV, Postgres, sandboxing, interprocess communication, network communication, porting, migrations.
+**Work on**: Backend, GUI, Swing UI, Computer Vision (OpenCV), IP Cameras, Postgres, sandboxing, interprocess communication, network communication, porting, migrations.
 
 **Done entirely by me**:
 - I completely redesigned and cleaned all systems, implemented sandboxing and increased the uptime of our software to 99.9%.
