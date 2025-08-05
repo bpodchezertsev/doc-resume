@@ -36,7 +36,7 @@ and documenting well with cross-references to the same aspects.
 - Create many helper functions and small independent libraries to avoid routine operations
 - Generalized algorithms as much as possible
 - Extensive use of metadata, collecting metadata from various sources, code generation
-- Document code well, tools, create guides, use diagrams for better visualization
+- Make well-documented code and tools, create guides, use diagrams for better visualization
 - Create APIs and tools for debugging, data collection and derivations, analysis and monitoring
 
 # Types of projects
