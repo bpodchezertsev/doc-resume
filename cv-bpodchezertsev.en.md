@@ -34,17 +34,6 @@ In many of my works, I focus on the productivity of our teams.
 - Create APIs and tools for debugging, data collection and derivations, analysis and monitoring
 
 # Types of projects
-- frameworks
-- libraries
-- backend
-- rich UI
-- web-client
-- script engines
-- CLI
-- embedded
-- hardware (e.g., testbeds, CNC)
-
-# Types of projects
 - software types: frameworks, libraries, backend, rich UI, web-client, CLI, low-level, embedded
 - software areas: parsers, script engines, monitoring, metrics, 2D renders, modeling, code generation
 - hardware-related: drivers, hardware interfaces, modeling, manufacturing, milling machines, CNC, testbeds  
