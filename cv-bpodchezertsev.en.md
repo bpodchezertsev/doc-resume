@@ -26,12 +26,10 @@ In many of my works, I focus on the productivity of our teams.
 - In all my jobs, I get the most difficult tasks, creating many tasks for bugs and design flaws that I find.
 
 # Development style
-- Declarative design, domain-driven design, functional design, metadata-driven architecture
-- Use generalized algorithms as much as possible
-- Create many helper functions and small independent libraries to avoid routine operations
-- Extensive use of metadata, collecting metadata from various sources, code generation
-- Make well-documented code and tools, create guides, use diagrams for better visualization
-- Create APIs and tools for debugging, data collection and derivations, analysis and monitoring
+- Declarative design
+- Domain-driven design
+- Functional design
+- Metadata-driven architecture
 
 # Types of projects
 - software types: frameworks, libraries, backend, rich UI, web-client, CLI, low-level, embedded
