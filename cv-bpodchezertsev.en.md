@@ -107,9 +107,6 @@ _I mainly troubleshoot hardware issues in many projects, including side jobs._
   - java: standard library (and basic methods) variations and optimizations, declarative proxies, dependence resolvers, SWT, GWT, Vaadin, libGDX, etc.
   - hardware: aircraft designs (overall, frame, propulsion), testbeds, etc.
 
-## Driving
-Category B. Since 2005, no accidents due to my fault. 10 years of driving experience in a minivan with a manual transmission.
-
 
 # History
 
@@ -132,7 +129,7 @@ Category B. Since 2005, no accidents due to my fault. 10 years of driving experi
 
 **Work on**: Java Swing UI, libraries, algorithms, optimizations, refactoring, parsing, CI/CD.
 
-**Done entirely by me**:
+**Developed by me**:
 - Stable DDD typesafe APIs.
 - Libraries that cover all existing cases, fixing bugs, which will help remove or compact a large legacy codebase.
 - Improving debugging productivity by implementing various error detection methods, object tracing, external debugging APIs.
@@ -153,7 +150,7 @@ Syrve is a brand that originated from Iiko.
 
 **Work on**: Backend, GUI, JSP, Tomcat, Spring, Hibernate, MSSQL/Postgres, MQ, CLI, data models, code generation, metrics, CI/CD. (Java, C#, JSP, Javascript, PHP)
 
-**Done entirely by me**:
+**Developed by me**:
 - Data model collectors from source code, code generators with generation-gap.
 - General helper functions for support engineers working with both hot and cold databases.
 - Performance related decorators for time- or memory-critical code.
