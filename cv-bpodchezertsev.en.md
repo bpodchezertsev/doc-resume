@@ -28,29 +28,18 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 - hardware, testbeds, R&D
 
 ### My UI-related works
-- Metadata-driven UI libraries (+ two-way tools) (Java + Swing, Delphi, Lazarus)
-- Functional-reactive UI libraries and helpers (Java + Swing, Delphi, Lazarus)
-- Functional scripting engines an/or interactive script consoles for local and remote app models and UI controls (Java + Swing, Delphi)
-- GUI facade and remote facade for text-based app models (Delphi, C++, WinAPI)
+- Metadata-driven UI libraries (Java + Swing, Delphi, Lazarus)
+- Reactive UI libraries + scripting (Java + Swing, Delphi, Lazarus)
 - Vector GUIs (Java, Delphi, Javascript)
 - Also: Android, SWT, JWS, GWT
 
-### My backend-related works
-- Functional scripts for UI models and backend models (Java)
-- GraphQL-like queries from multiple data sources, including the queries themselves (Java)
-- Workers subprocesses sandboxing to avoid instability of native libraries (Java, Delphi, Pascal, C++, OpenCV)
-- Functional scripting engines for UI models and backend models (Java, Delphi)
-- GUI facade and remote facade for text-based UI libraries (Pascal, C++, WinAPI)
-- Native libraries integrations.
-
 ### My hardware-related works
-- Telephony interfaces, management consoles, configuring and monitoring software, billing services, embedded software (Delphi/Lazarus, Java, C++, C++ Builder, Watcom C++, Watcom Optima, Assembler)
-- Computer Vision (OpenCV), IP Cameras (Delphi/Lazarus, Java, C++, C++ Builder)
+- Telephony interfaces, management consoles, configuring and monitoring software, billing services, embedded software (Delphi/Lazarus, Java, C++)
+- Computer Vision (OpenCV), IP Cameras (Delphi/Lazarus, Java, C++)
 - APIs and management consoles for fiscal printers. (Delphi)
-- Spy tools for reverse-engineering protocols of medical devices interfaces. (Delphi)
-- Graphics rendering software for printers and plotters. (Pascal)
-- Improvements, fixes, hardware drivers, hardware testbeds, create interfaces to medical hardware equipment and made other hardware interfaces, including telephony, and protocol reverse engineering. (Pascal, Delphi, C++, Assembler)
-- Design, modeling, calculations and creation of drones (C++, Python, OpenSCAD)
+- Spy tools for reverse-engineering protocols of medical devices interfaces. (Delphi, C++)
+- Testbeds + hardware drivers. (Delphi, C++)
+- Aircraft design (C++, Python, OpenSCAD)
 - Installation and maintenance of various hardware.
 - Milling machines, OpenSCAD modeling.
 
