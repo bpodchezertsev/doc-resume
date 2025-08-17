@@ -104,6 +104,9 @@ _I mainly troubleshoot hardware issues in many projects, including side jobs._
 - [2012 - 2016 RusTeleSys](#2012---2016-rustelesys)
 - [2005 - 2011 TopS BI](#2005---2011-tops-bi)
 - [2003 - 2005 BSS/BFT](#2003---2005-bssbft)
+- [1999 - 2003 Quorum](#1999---2003-quorum)
+- [1998 - 1999 Altey Laboratories](#1998---1999-altey-laboratories)
+- [1995 - 1998 Prais Telecom](#1995---1998-prais-telecom)
 
 
 ## 2024 Dukascopy
@@ -170,3 +173,40 @@ Core recognition system (
     Universal UI with scripting for structures manipulations for data sources, forms and reports;
     Markup language for Excel templates;
     Programmable by user (in functional style) report rendered for Excel).
+
+
+## 1999 - 2003 Quorum
+
+**Title**: Lead Software Developer
+
+**Work on**: Fintech software, backend, GUI, WinAPI(16/32), DOS, COM, Btrieve/Pervasive/Oracle/Oracle PLSQL, communications, hardware integration, CLI, parsers, scripting engines, plugins, database administration tools, tools for CI/CD toolchains, code generators, parsers.
+
+**Key contributions**:
+  Increase main banking system uptime from 99% to 99.9% (Code cleanup, synchronize code branches to 95% common parts (including porting/backporting 16/32 bit), full rebuild of some subsystems (including reverse engineering). 
+  Implement new database management UI, IDE plugins, Hardware integration plugins and management consoles.
+
+
+## 1998 - 1999 Altey Laboratories
+
+**Title**: System Engineer 
+
+**Work on**:
+  Healthtech software, Medical equipment, Medical hardware, Interfaces with medical hardware, Backend,
+  Plugins for existing medical systems, COM, DCOM, WinAPI, Interbase, Firebird, DBF.
+  (Delphi, C++)
+
+**Key contributions**:
+  Full integration of hardware and software from start to implementation for various clients.
+
+
+## 1995 - 1998 Prais Telecom
+
+**Title**: Software Developer
+
+**Work on**:
+  Telephony software, GUI, Hardware interfaces, Embedded, Communications, WinAPI (16/32).
+  (Delphi, C++, Watcom Optima, embedded systems, assembler)
+
+**Key contributions**:
+  Billing system with reporting tools.
+  Universal maintenance system with rich possibilities and scripting.
