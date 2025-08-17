@@ -65,7 +65,7 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
 **Title**: Senior Java Developer.
 
-**Work on**: SAAS, Trading software, Java Swing UI, libraries, algorithms, optimizations, refactoring, parsing, CI/CD.
+**Skills**: SAAS, Trading software, Java Swing UI, libraries, algorithms, optimizations, refactoring, parsing, CI/CD.
 
 **Key contributions**: Rich UI (reporting, optimizations, simplifications, generalizations, code branches synchronization, tools, checkers, type safety).
 
@@ -74,7 +74,7 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
 **Title**: Senior Java Developer
 
-**Work on**: SAAS, Restaurant software, Backend, GUI, JSP, Tomcat, Spring, Hibernate, MSSQL/Postgres, MQ, CLI, data models, code generation, metrics, CI/CD. (Java, C#, JSP, Javascript, PHP)
+**Skills**: SAAS, Restaurant software, Backend, GUI, JSP, Tomcat, Spring, Hibernate, MSSQL/Postgres, MQ, CLI, data models, code generation, metrics, CI/CD. (Java, C#, JSP, Javascript, PHP)
 
 **Key contributions**: Core system services (metrics, optimizations, modeling, API code generation, helpdesk and administrative tools).
  
@@ -83,7 +83,7 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
 **Title**: Lead System Designer
 
-**Work on**: Call-center software, Backend, telephony, microservices, MQ, Docker, Spring, GUI, Swing UI, Oracle/Oracle PLSQL/Postgres/MSSQL, tools, CI/CD, Maven plugin, code generation, JSP, Tomcat, reporting tools. (Java, Python, Javascript, JSP, PHP)
+**Skills**: Call-center software, Backend, telephony, microservices, MQ, Docker, Spring, GUI, Swing UI, Oracle/Oracle PLSQL/Postgres/MSSQL, tools, CI/CD, Maven plugin, code generation, JSP, Tomcat, reporting tools. (Java, Python, Javascript, JSP, PHP)
  
 **Key contributions**: Call-center helpdesk software (integrations, telephony, UI, microservices, tools).
 
@@ -92,7 +92,7 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
 **Title**: Lead Software Developer
 
-**Work on**: Video analytic software, Backend, GUI, Swing UI, Computer Vision (OpenCV), IP Cameras, Postgres, sandboxing, interprocess communication, network communication, porting, migrations, embedded. (Delphi/Lazarus/FPC, C++, Java, scripts)
+**Skills**: Video analytic software, Backend, GUI, Swing UI, Computer Vision (OpenCV), IP Cameras, Postgres, sandboxing, interprocess communication, network communication, porting, migrations, embedded. (Delphi/Lazarus/FPC, C++, Java, scripts)
 
 **Key contributions**:
 Core recognition system (
@@ -105,7 +105,7 @@ Core recognition system (
 
 **Title**: Lead Software Developer
 
-**Work on**: Insurance software, Map rendering software, Backend, Swing UI, modules for various application servers, JSP, Java Web Start, Oracle/Oracle Lite/Sybase/MSSQL, database administration tools, CI/CD. (Java, JSP, Javascript)
+**Skills**: Insurance software, Map rendering software, Backend, Swing UI, modules for various application servers, JSP, Java Web Start, Oracle/Oracle Lite/Sybase/MSSQL, database administration tools, CI/CD. (Java, JSP, Javascript)
 
 **Key contributions**:
   Car insurance system for RGS (UI modules, geo-classificators, database migrations, database administration tools);
@@ -117,7 +117,7 @@ Core recognition system (
 
 **Title**: Lead Software Developer
 
-**Work on**: Fintech software, Backend, GUI, Excel VBA, Oracle/MSSQL/Firebird, parsing, functional script engines, workflow. (Java, Delphi, VBA)
+**Skills**: Fintech software, Backend, GUI, Excel VBA, Oracle/MSSQL/Firebird, parsing, functional script engines, workflow. (Java, Delphi, VBA)
 
 **Key contributions**:
   New powerful universal reporting tool (
