@@ -113,165 +113,100 @@ _I mainly troubleshoot hardware issues in many projects, including side jobs._
 
 **Title**: Senior Java Developer.
 
-**Work with**: Rich UI project team
+**Work on**: SAAS, Trading software, Java Swing UI, libraries, algorithms, optimizations, refactoring, parsing, CI/CD.
 
-**Work on**: Java Swing UI, libraries, algorithms, optimizations, refactoring, parsing, CI/CD.
-
-**Developed by me**:
-- Stable DDD typesafe APIs.
-- Libraries that cover all existing cases, fixing bugs, which will help remove or compact a large legacy codebase.
-- Improving debugging productivity by implementing various error detection methods, object tracing, external debugging APIs.
-- Synchronizing the codebase between modules.
-- Functional style in algorithm handling and UI handling.
-- Common stable APIs for various internal data structures to allow the use of generic algorithms.
-- Well-documented code, including not only text but also diagrams and not only comments but also guidelines.
+**Key contributions**: Rich UI (reporting, optimizations, simplifications, generalizations, code branches synchronization, tools, checkers, type safety).
 
 
 ## 2021 - 2023 Iiko/Syrve
 
-**About**: Iiko is one of the leading restaurant software platforms in Russia and the most complex.
-Syrve is a brand that originated from Iiko.
-
 **Title**: Senior Java Developer
 
-**Work with**: Core team, Project teams
+**Work on**: SAAS, Restaurant software, Backend, GUI, JSP, Tomcat, Spring, Hibernate, MSSQL/Postgres, MQ, CLI, data models, code generation, metrics, CI/CD. (Java, C#, JSP, Javascript, PHP)
 
-**Work on**: Backend, GUI, JSP, Tomcat, Spring, Hibernate, MSSQL/Postgres, MQ, CLI, data models, code generation, metrics, CI/CD. (Java, C#, JSP, Javascript, PHP)
-
-**Developed by me**:
-- Data model collectors from source code, code generators with generation-gap.
-- General helper functions for support engineers working with both hot and cold databases.
-- Performance related decorators for time- or memory-critical code.
-- Memory optimizations: destructive data transformations, local metadata fixups etc.
-- Metrics collection, debugging helpers creation.
-
+**Key contributions**: Core system services (metrics, optimizations, modeling, API code generation, helpdesk and administrative tools).
+ 
 
 ## 2016 - 2020 Servionica
 
-**About**: Servionica is a part of the ITECO group of companies, one of the leading system integrators in Russia.
-
 **Title**: Lead System Designer
 
-**Work with**: Project teams, Support teams, Telephony team, Customers, As team lead of some projects
-
-**Work on**: Backend, telephony, microservices, MQ, Docker, Spring, GUI, Swing UI, Oracle/Oracle PLSQL/Postgres/MSSQL, tools, CI/CD, Maven plugin, code generation, JSP, Tomcat, reporting tools. (Java, Python, Javascript, JSP, PHP)
-
-**Developed by me**:
-- Metadata-based back/front
-- Telephony integrations
-- Oracle PLSQL API wrappers
-- Universal unit tests to check the completeness of the implementation of some functions for unknown data objects based on the collected metadata.
-- Reporting tools
-- Logging tools
-- Debugging tools
-- Synchronization tools
-- Code generation tools
+**Work on**: Call-center software, Backend, telephony, microservices, MQ, Docker, Spring, GUI, Swing UI, Oracle/Oracle PLSQL/Postgres/MSSQL, tools, CI/CD, Maven plugin, code generation, JSP, Tomcat, reporting tools. (Java, Python, Javascript, JSP, PHP)
+ 
+**Key contributions**: Call-center helpdesk software (integrations, telephony, UI, microservices, tools).
 
 
 ## 2012 - 2016 RusTeleSys
 
-**About**: At that time, RusTeleSys had the most powerful license plate recognition system in Russia.
-
 **Title**: Lead Software Developer
 
-**Work with**: Hardware teams, As team lead of core team, As team lead of some projects
+**Work on**: Video analytic software, Backend, GUI, Swing UI, Computer Vision (OpenCV), IP Cameras, Postgres, sandboxing, interprocess communication, network communication, porting, migrations, embedded. (Delphi/Lazarus/FPC, C++, Java, scripts)
 
-**Work on**: Backend, GUI, Swing UI, Computer Vision (OpenCV), IP Cameras, Postgres, sandboxing, interprocess communication, network communication, porting, migrations. (Delphi/Lazarus/FPC, C++, Java, scripts)
-
-**Developed by me**:
-- I completely redesigned and cleaned all systems, implemented sandboxing and increased the uptime of our software to 99.9%.
-- Make the system run on different OS and CPU in different programming languages with different API variations.
-- Create tools/libraries/apps for debugging, logging, performance monitoring, integration, etc.
+**Key contributions**:
+Core recognition system (
+  cleanup, break monolith to components, increase uptime to 99.99%,
+  migrate by modules to different OSes, CPUs, programming languages, implement multiple APIs,
+  create tools for debugging, logging, performance monitoring, integration, configuration, etc.).
 
 
 ## 2005 - 2011 TopS BI
 
-**About**: TopS BI was one of the largest independent software integrators in Russia at that time.
-
 **Title**: Lead Software Developer
 
-**Work with**: Project teams, Support team, As team lead of some projects
+**Work on**: Insurance software, Map rendering software, Backend, Swing UI, modules for various application servers, JSP, Java Web Start, Oracle/Oracle Lite/Sybase/MSSQL, database administration tools, CI/CD. (Java, JSP, Javascript)
 
-**Work on**: Backend, Swing UI, modules for various application servers, JSP, Java Web Start, Oracle/Oracle Lite/Sybase/MSSQL, database administration tools, CI/CD. (Java, JSP, Javascript)
-
-**Developed by me**:
-- Fixing all multithreading or system issues in all projects.
-- Design and implementation of new GUI subsystems using my functional-reactive library.
-- Updating the insurance reserve calculation subsystem.
-- Migration of client software from Oracle to Sybase.
-- Design and implementation of dynamic object overlay for the map rendering system.
-- Design and implementation of custom type-safe ORM APIs.
-- Database administration tools.
+**Key contributions**:
+  Car insurance system for RGS (UI modules, geo-classificators, database migrations, database administration tools);
+  Insurance system for Alpha Insurance (typesafe ORM system, Web UI);
+  Geo-map Web UI for MosEnergo (rendering service, backend Web UI, frontend Web UI, geo-classificators).
 
 
 ## 2003 - 2005 BSS/BFT
 
-**About**: In those years BFT is one of the leading integrators of budget financial processes in Russia, presenting its own systems and automated workflows.
-
 **Title**: Lead Software Developer
 
-**Work with**: Project teams, Customers, As team lead of reporting team.
+**Work on**: Fintech software, Backend, GUI, Excel VBA, Oracle/MSSQL/Firebird, parsing, functional script engines, workflow. (Java, Delphi, VBA)
 
-**Work on**: Backend, GUI, Excel VBA, Oracle/MSSQL/Firebird, parsing, functional script engines, workflow. (Java, Delphi, VBA)
-
-**Developed by me**:
-- Logical representation of data structure based on existing or new data sources, data source merging, data operations (GraphQL-like): application server (Java) + GUI client (Delphi)
-- Microscript language for data operations on the server (data source operations) and client (data source operations and functional-reactive forms)
-- Markup language for Excel templates.
-- Tables/trees/matrices with grouping, variable ranges.
-- Custom extensions via Excel VBA.
+**Key contributions**:
+  New powerful universal reporting tool (
+    New types of universal data sources for datasource repository, including GraphQL-like data sources and scripting;
+    Universal UI with scripting for structures manipulations for data sources, forms and reports;
+    Markup language for Excel templates;
+    Programmable by user (in functional style) report rendered for Excel).
 
 
 ## 1999 - 2003 Quorum
 
-**About**: Quorum was one of the leading providers of banking software in Russia at that time. And one of the outsourcing companies.
-In those years, the company is trying to move to modern technologies by creating various experimental banking platforms, workflows and tools.
-
 **Title**: Lead Software Developer
 
-**Work with**: Project teams, Application teams, Support team, As team lead of core team
+**Work on**: Fintech software, backend, GUI, WinAPI(16/32), DOS, COM, Btrieve/Pervasive/Oracle/Oracle PLSQL, communications, hardware integration, CLI, parsers, scripting engines, plugins, database administration tools, tools for CI/CD toolchains, code generators, parsers.
 
-**Work on**: Backend, GUI, WinAPI(16/32), DOS, COM, Btrieve/Pervasive/Oracle/Oracle PLSQL, communications, hardware integration, CLI, parsers, scripting engines, plugins, database administration tools.
-
-**Developed by me**:
-- Tools: various utilities for CI/CD toolchains, including code generators, parsers etc.
-- Complete ABS Quorum code cleanup
-- Complete repair of two buggy ABS Quorum interface variants (remote terminal and GUI)
-- Complete code union of all ABS Quorum interface variants (console, remote terminal and GUI)
-- Porting and backporting 16/32 bit, reverse engineering
-- Hardware API, plugins, management consoles 
-- Database management UI
-- IDE plugins
-- Hardware integration plugins and management consoles
+**Key contributions**:
+  Increase main banking system uptime from 99% to 99.9% (Code cleanup, synchronize code branches to 95% common parts (including porting/backporting 16/32 bit), full rebuild of some subsystems (including reverse engineering). 
+  Implement new database management UI, IDE plugins, Hardware integration plugins and management consoles.
 
 
 ## 1998 - 1999 Altey Laboratories
 
-**About**: Altey Laboratories was one of the leading independent Russian integrators of software systems for medical laboratories in those years.
-
 **Title**: System Engineer 
 
-**Work with**: Integration teams, Customers, As on-site project manager 
+**Work on**:
+  Healthtech software, Medical equipment, Medical hardware, Interfaces with medical hardware, Backend,
+  Plugins for existing medical systems, COM, DCOM, WinAPI, Interbase, Firebird, DBF.
+  (Delphi, C++)
 
-**Work on**: Medical equipment, Medical hardware, Interfaces with medical hardware, Backend, Plugins for existing medical systems, COM, DCOM, WinAPI, Interbase, Firebird, DBF. (Delphi, C++)
-
-**Developed by me**:
-- Development of software exchange modules for the laboratory of Polyclinic No. 129 in Moscow. Hardware setup. User support.
-- Hardware and software support and setup, hardware interfaces and management tools.
+**Key contributions**:
+  Full integration of hardware and software from start to implementation for various clients.
 
 
 ## 1995 - 1998 Prais Telecom
 
-**About**: Prais Telecom is one of the independent manufacturers of telecommunications equipment, developed entirely in Russia in those years.
-
 **Title**: Software Developer
 
-**Work with**: Hardware team
+**Work on**:
+  Telephony software, GUI, Hardware interfaces, Embedded, Communications, WinAPI (16/32).
+  (Delphi, C++, Watcom Optima, embedded systems, assembler)
 
-**Work on**: GUI, hardware interfaces, embedded, communications, WinAPI (16/32) (Delphi/Object Pascal, C++, Watcom Optima, embedded systems, assembler)
-
-**Developed by me**:
-- Client-server billing system.
-- New systems of service and technical support for hardware based on metadata with centralized routing and scripting.
-- Parts of embedded systems.
-- Reporting tools.
+**Key contributions**:
+  Billing system with reporting tools.
+  Universal maintenance system with rich possibilities and scripting.
