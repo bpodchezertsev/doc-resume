@@ -2,28 +2,10 @@
 
 LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
-### My goals
-- As a Team Leader: Improve the team's performance today and in the future.
-- As a Business Analyst: Design features as combinations of reusable, long-term parts.
-- As a System Architect: Design the most safe, reusable, and efficient long-term solutions.
-- As a Software Developer: Implement safe, reusable, and efficient long-term solutions with the smallest possible code and useful features per code size.
-
 ### How I work
 - Deeply analyze the code/problem to find ways to fix not only current issues but also future improvements, and create recommendations for that.
 - Make it harder to create future bugs by organizing the code in predictive ways.
 - Don't stop at exploring common areas, but try to develop something with unique features.
-
-### Explanation of the main goals
-In many of my works, I focus on the productivity of our teams.
-- For our development teams, I have created reusable helpers, libraries, and frameworks to avoid routine operations and isolate complex decisions.
-- For the development and testing teams, I create APIs and tools for debugging, data collection and output, analysis, and monitoring.
-- For the support teams, I create useful APIs and tools.
-
-### Explanation of how I work
-- I analyze huge amounts of code to find possible solutions and improvements from simple bugs to major design flaws.
-- In my job, I actively take further direction from our and other teams and try to test and implement solutions to address these directions,
-  avoiding bureaucracy to help teams work without headaches.
-- In all my jobs, I get the most difficult tasks, creating many tasks for bugs and design flaws that I find.
 
 ### Development style
 - Declarative design
@@ -53,8 +35,6 @@ In many of my works, I focus on the productivity of our teams.
 - Vector GUIs (Java, Delphi, Javascript)
 - Also: Android, SWT, JWS, GWT
 
-_I mainly troubleshoot multithreading issues in many projects, including UI projects._
-
 ### My backend-related works
 - Functional scripts for UI models and backend models (Java)
 - GraphQL-like queries from multiple data sources, including the queries themselves (Java)
@@ -62,8 +42,6 @@ _I mainly troubleshoot multithreading issues in many projects, including UI proj
 - Functional scripting engines for UI models and backend models (Java, Delphi)
 - GUI facade and remote facade for text-based UI libraries (Pascal, C++, WinAPI)
 - Native libraries integrations.
-
-_I mainly troubleshoot multithreading issues in many projects, including backend projects._
 
 ### My hardware-related works
 - Telephony interfaces, management consoles, configuring and monitoring software, billing services, embedded software (Delphi/Lazarus, Java, C++, C++ Builder, Watcom C++, Watcom Optima, Assembler)
@@ -75,14 +53,6 @@ _I mainly troubleshoot multithreading issues in many projects, including backend
 - Design, modeling, calculations and creation of drones (C++, Python, OpenSCAD)
 - Installation and maintenance of various hardware.
 - Milling machines, OpenSCAD modeling.
-
-_I mainly troubleshoot hardware issues in many projects, including side jobs._
-
-### Largest projects by type
-- Largest project I made: Universal report generator: ~1M lines Java, Delphi, VBA. (Also my largest multilanguage scripting engines and metadata-based operations.)
-- Largest refactoring (+migrations +extensions) I made: Licence plate recognition systems: ~500K lines of FPC/Lazarus/Delphi, Java, C++.
-- Largest metadata collectors & code generators I made: Iiko/Syrve restaurant software: ~100K lines of Java
-- Largest embedded I made: Telephony hardware: ~10K lines of C++
 
 ### My latest pet-projects in progress
 - An umbrella software project for all my experimental performance, compatibility, reusability, flexibility libraries, utilities and snippets. Goal is multi-language interoperability (currently Java and Rust, outdated parts in C++, Python), performance, DDD and code generation.
