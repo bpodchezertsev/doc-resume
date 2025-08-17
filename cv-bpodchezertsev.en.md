@@ -43,16 +43,12 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 - Installation and maintenance of various hardware.
 - Milling machines, OpenSCAD modeling.
 
-### My latest pet-projects in progress
-- An umbrella software project for all my experimental performance, compatibility, reusability, flexibility libraries, utilities and snippets. Goal is multi-language interoperability (currently Java and Rust, outdated parts in C++, Python), performance, DDD and code generation.
-- A hardware project of development principal new multipurpose omnidirectional drone family (I use CADs and Python for 3D-modelling and principal modelling).
-- Literature project of hard sci-fi novell in the nearest future.
-
-### Other pet-projects
+### My pet-projects
 - various programming languages (Java, C#, Rust, C++, Python, Javascript): rare patterns, metadata, dynamic classes, complex type safety, data transformations/mutations, binary protocols + memory mapped files, reflection, etc.
 - javascript: layered declarative modules dependence resolving library, safe code serialization library, virtual UI library, Bindows, Babylon, Node.js, etc.
 - java: standard library (and basic methods) variations and optimizations, declarative proxies, dependence resolvers, SWT, GWT, Vaadin, libGDX, etc.
-- hardware: aircraft designs (overall, frame, propulsion), testbeds, etc.
+- Aircraft designs (overall, frame, propulsion), testbeds, etc.
+- Literature project of hard sci-fi novell in the nearest future.
 
 
 ## History
