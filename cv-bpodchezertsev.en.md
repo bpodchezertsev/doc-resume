@@ -63,9 +63,9 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
 ### 2024 Dukascopy
 
-**Title**: Senior Java Developer.
+**Title**: Senior Java Developer
 
-**Skills**: SAAS, Trading software, Java Swing UI, libraries, algorithms, optimizations, refactoring, parsing, CI/CD.
+**Skills**: SAAS, Java Swing UI, algorithms, optimizations, refactoring, parsing, CI/CD, Linux desktop, functional programming, GUI, reporting. (Java)
 
 **Key contributions**: Rich UI (reporting, optimizations, simplifications, generalizations, code branches synchronization, tools, checkers, type safety).
 
@@ -74,7 +74,7 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
 **Title**: Senior Java Developer
 
-**Skills**: SAAS, Restaurant software, Backend, GUI, JSP, Tomcat, Spring, Hibernate, MSSQL/Postgres, MQ, CLI, data models, code generation, metrics, CI/CD. (Java, C#, JSP, Javascript, PHP)
+**Skills**: SAAS, Backend, GUI, JSP, Tomcat, Spring, Hibernate, MSSQL/Postgres, MQ, data modeling, code generation, metrics, CI/CD, parsing, functional programming. (Java, JSP, C#, .Net, Javascript, PHP)
 
 **Key contributions**: Core system services (metrics, optimizations, modeling, API code generation, helpdesk and administrative tools).
  
@@ -83,7 +83,7 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
 **Title**: Lead System Designer
 
-**Skills**: Call-center software, Backend, telephony, microservices, MQ, Docker, Spring, GUI, Swing UI, Oracle/Oracle PLSQL/Postgres/MSSQL, tools, CI/CD, Maven plugin, code generation, JSP, Tomcat, reporting tools. (Java, Python, Javascript, JSP, PHP)
+**Skills**: Call-center software, Backend, telephony, microservices, MQ, Docker, Spring, GUI, Swing UI, Oracle/Oracle PLSQL/Postgres/MSSQL, tools, CI/CD, Maven plugin, code generation, JSP, reporting tools. (Java, Python, Javascript, JSP, PHP)
  
 **Key contributions**: Call-center helpdesk software (integrations, telephony, UI, microservices, tools).
 
