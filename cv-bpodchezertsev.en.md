@@ -18,7 +18,7 @@ Hardware-related: drivers, hardware interfaces, modeling, manufacturing, milling
 - Functional design
 - Metadata-driven architecture
 
-## Project migrations
+### Project migrations
 - XBase (COBOL-related) GIS apps to Pascal (Delphi) GUI apps migration. (Method: rewriting)
 - Text/Console banking apps to GUI apps. (Method: replace UI layer with new without rewriting app logic)
 - Turbo BASIC CLI tools to C++ migration (Method: rewriting)
