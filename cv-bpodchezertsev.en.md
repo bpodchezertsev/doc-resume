@@ -2,10 +2,15 @@
 
 LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
-### How I work
-- Deeply analyze the code/problem to find ways to fix not only current issues but also future improvements, and create recommendations for that.
-- Make it harder to create future bugs by organizing the code in predictive ways.
-- Don't stop at exploring common areas, but try to develop something with unique features.
+Software types: frameworks, libraries, backend, rich UI, web-client, CLI, parsers, script engines, monitoring, metrics, 2D renders, modeling, code generation
+Hardware-related: drivers, hardware interfaces, modeling, manufacturing, milling machines, CNC, testbeds, low-level, embedded
+
+### Areas of application
+- system programming, reverse engineering, R&D
+- SAAS
+- fintech, healthtech, insurance, car insurance
+- geosurveying
+- hardware, testbeds
 
 ### Development style
 - Declarative design
@@ -13,42 +18,37 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 - Functional design
 - Metadata-driven architecture
 
-### Types of projects
-- software types: frameworks, libraries, backend, rich UI, web-client, CLI, low-level, embedded
-- software areas: parsers, script engines, monitoring, metrics, 2D renders, modeling, code generation
-- hardware-related: drivers, hardware interfaces, modeling, manufacturing, milling machines, CNC, testbeds  
+## Project migrations
+- XBase (COBOL-related) GIS apps to Pascal (Delphi) GUI apps migration. (Method: rewriting)
+- Text/Console banking apps to GUI apps. (Method: replace UI layer with new without rewriting app logic)
+- Turbo BASIC CLI tools to C++ migration (Method: rewriting)
+- Oracle to Sybase migration for Java apps (Method: isolate database-specific operations inside DB-layer, when create a new DB-layer with same API)
+- Web-services DB layer to direct DB layer migration for migration insurance CS software to web (Method: Create JOOQ-like typesafe DB layer)
+- Delphi (and C++) monolithic CS video analytic system to modular multi-platform system migration. (Method: code extraction/wrappers + compiler defines for different cases and environments)
+- Java, C#, PHP C/S software migration to common API. (Method: model collection + generation-gap code generation)
 
-### Areas of application
-- system programming, reverse engineering, R&D
-- SAAS
-- fintech
-- healthtech
-- insurance, car insurance
-- geosurveying
-- hardware, testbeds, R&D
-
-### My UI-related works
+### UI-related works
 - Metadata-driven UI libraries (Java + Swing, Delphi, Lazarus)
 - Reactive UI libraries + scripting (Java + Swing, Delphi, Lazarus)
 - Vector GUIs (Java, Delphi, Javascript)
 - Also: Android, SWT, JWS, GWT
 
-### My hardware-related works
+### Hardware-related works
 - Telephony interfaces, management consoles, configuring and monitoring software, billing services, embedded software (Delphi/Lazarus, Java, C++)
 - Computer Vision (OpenCV), IP Cameras (Delphi/Lazarus, Java, C++)
-- APIs and management consoles for fiscal printers. (Delphi)
-- Spy tools for reverse-engineering protocols of medical devices interfaces. (Delphi, C++)
-- Testbeds + hardware drivers. (Delphi, C++)
+- APIs and management consoles for fiscal printers (Delphi)
+- Spy tools for reverse-engineering protocols of medical devices interfaces (Delphi, C++)
+- Testbeds + hardware drivers (Delphi, C++)
 - Aircraft design (C++, Python, OpenSCAD)
-- Installation and maintenance of various hardware.
-- Milling machines, OpenSCAD modeling.
+- Installation and maintenance of various hardware
+- Milling machines, OpenSCAD modeling
 
-### My pet-projects
-- various programming languages (Java, C#, Rust, C++, Python, Javascript): rare patterns, metadata, dynamic classes, complex type safety, data transformations/mutations, binary protocols + memory mapped files, reflection, etc.
-- javascript: layered declarative modules dependence resolving library, safe code serialization library, virtual UI library, Bindows, Babylon, Node.js, etc.
-- java: standard library (and basic methods) variations and optimizations, declarative proxies, dependence resolvers, SWT, GWT, Vaadin, libGDX, etc.
+### Pet-projects:
+- java: standard library (and basic methods) variations and optimizations, dependency resolvers, SWT, GWT, Vaadin, libGDX, etc.
+- javascript: dependency resolvers, serializations, UI, Bindows, Babylon, Node.js, etc.
+- Other programming languages: (C#, Rust, C++, Python)
 - Aircraft designs (overall, frame, propulsion), testbeds, etc.
-- Literature project of hard sci-fi novell in the nearest future.
+- Literature project of hard sci-fi novell in the nearest future
 
 
 ## History
@@ -59,7 +59,6 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 - [2012 - 2016 RusTeleSys](#2012---2016-rustelesys---lead-software-developer)
 - [2005 - 2011 TopS BI](#2005---2011-tops-bi---lead-software-developer)
 - [2003 - 2005 BSS/BFT](#2003---2005-bssbft---lead-software-developer)
-
 
 ### 2024 Dukascopy - Senior Java Developer
 
