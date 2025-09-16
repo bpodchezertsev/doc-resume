@@ -13,7 +13,7 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 **Development style:** Declarative design, Domain-driven design, Functional design, Metadata-driven architecture
 
 ### Migration-related works
-- Migrating XBase (COBOL-related) GIS applications from to Pascal (Delphi) GUI applications. (Method: Complete rewrite)
+- Migration of XBase (COBOL-related) GIS applications to Pascal (Delphi) GUI applications. (Method: Complete rewrite)
 - Migration of Pascal (Delphi) text/console banking applications from to GUI applications. (Method: Layer extraction)
 - Migration of controller tools from Turbo BASIC to C++ (Method: Complete rewrite)
 - Migration of Java insurance applications from Oracle to Sybase (Method: Layer extraction)
