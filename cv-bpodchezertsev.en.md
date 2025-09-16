@@ -2,30 +2,24 @@
 
 LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
-Software types: frameworks, libraries, backend, rich UI, web-client, CLI, parsers, script engines, monitoring, metrics, 2D renders, modeling, code generation
-Hardware-related: drivers, hardware interfaces, modeling, manufacturing, milling machines, CNC, testbeds, low-level, embedded
+**Areas of application:** system programming, reverse engineering, R&D, SAAS, fintech, healthtech, insurance, car insurance, geosurveying, video analytics, hardware, testbeds
 
-### Areas of application
-- system programming, reverse engineering, R&D
-- SAAS
-- fintech, healthtech, insurance, car insurance
-- geosurveying
-- hardware, testbeds
+**Software types:** frameworks, libraries, backend, rich UI, web-client, CLI, parsers, script engines, monitoring, metrics, 2D renders, modeling, code generation
 
-### Development style
-- Declarative design
-- Domain-driven design
-- Functional design
-- Metadata-driven architecture
+**Programming languages:** Java, C#, C++, C, Python, Javascript, Delphi(Lazarus), Rust, Typescript, scripts, shell scripts, Assembler, XBase(COBOL-related, dBase, FoxPro, Clipper), Fortran, Lisp(Autolisp), Prolog
 
-### Project migrations
-- XBase (COBOL-related) GIS apps to Pascal (Delphi) GUI apps migration. (Method: rewriting)
-- Text/Console banking apps to GUI apps. (Method: replace UI layer with new without rewriting app logic)
-- Turbo BASIC CLI tools to C++ migration (Method: rewriting)
-- Oracle to Sybase migration for Java apps (Method: isolate database-specific operations inside DB-layer, when create a new DB-layer with same API)
-- Web-services DB layer to direct DB layer migration for migration insurance CS software to web (Method: Create JOOQ-like typesafe DB layer)
-- Delphi (and C++) monolithic CS video analytic system to modular multi-platform system migration. (Method: code extraction/wrappers + compiler defines for different cases and environments)
-- Java, C#, PHP C/S software migration to common API. (Method: model collection + generation-gap code generation)
+**Hardware-related:** drivers, hardware interfaces, modeling, manufacturing, milling machines, CNC, testbeds, low-level, embedded
+
+**Development style:** Declarative design, Domain-driven design, Functional design, Metadata-driven architecture
+
+### Migration-related works
+- Migrating XBase (COBOL-related) GIS applications from to Pascal (Delphi) GUI applications. (Method: Complete rewrite)
+- Migration of Pascal (Delphi) text/console banking applications from to GUI applications. (Method: Layer extraction)
+- Migration of controller tools from Turbo BASIC to C++ (Method: Complete rewrite)
+- Migration of Java insurance applications from Oracle to Sybase (Method: Layer extraction)
+- Migration of stored procedures wrapped in web services to a direct DB access layer for a Java insurance web application (Method: Layer extraction)
+- Migration of a monolithic Delphi (Lazarus) + C++ C/S video analytics system to a modular multi-platform (Linux, ARM, Android) multi-language (+Java, +Scripts) system, which allowed creating assemblies from a standalone apps to a multi-tier systems. (Method: Layer extraction + partial rewrite)
+- Migration of a multi-language system to a standard API. (Method: (Semi)automated migration + data model migration + code generation (generation gap) + layer extraction)
 
 ### UI-related works
 - Metadata-driven UI libraries (Java + Swing, Delphi, Lazarus)
