@@ -6,7 +6,7 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
 **Software types:** frameworks, libraries, backend, rich UI, web-client, CLI, parsers, script engines, monitoring, metrics, 2D renders, modeling, code generation
 
-**Programming languages:** Java, C#, C++, C, Python, Javascript, Delphi(Lazarus), Rust, Typescript, scripts, shell scripts, Assembler, XBase(COBOL-related, dBase, FoxPro, Clipper), Fortran, Lisp(Autolisp), Prolog
+**Programming languages:** Java, C#, C++, C, Python, Javascript, Delphi(Lazarus), Rust, Typescript, VBA, scripts, shell scripts, Assembler, XBase(COBOL-related, dBase, FoxPro, Clipper), Fortran, Lisp(Autolisp), Prolog
 
 **Hardware-related:** drivers, hardware interfaces, modeling, manufacturing, milling machines, CNC, testbeds, low-level, embedded
 
@@ -70,7 +70,7 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
 ### 2016 - 2020 Servionica - Lead Software Developer
 
-**Skills**: Call-center software, Backend, telephony, microservices, MQ, Docker, Spring, GUI, Swing UI, Oracle/Oracle PLSQL/Postgres/MSSQL, tools, CI/CD, Maven plugin, code generation, JSP, reporting tools. (Java, Delphi/Lazarus, Python, Javascript, JSP, PHP)
+**Skills**: Call-center software, Backend, telephony, microservices, MQ, Docker, Spring, GUI, Swing UI, Oracle/Oracle PLSQL/Postgres/MSSQL, tools, CI/CD, Maven plugin, code generation, JSP, reporting tools. (Java, Delphi/Lazarus, Python, Javascript, JSP, PHP, VBA)
  
 **Key contributions**: Call-center helpdesk software (integrations, telephony, UI, microservices, tools).
 
@@ -105,5 +105,5 @@ New powerful universal reporting tool (
   New types of universal data sources for datasource repository, including GraphQL-like data sources and scripting;
   Universal UI with scripting for structures manipulations for data sources, forms and reports;
   Markup language for Excel templates;
-  Programmable by user (in functional style) report rendered for Excel);
+  Programmable by user (in functional style) report renderer for Excel);
 Extensions for core system (workflow scripting, UI models improvements).
