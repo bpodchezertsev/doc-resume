@@ -81,9 +81,9 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
 **Key contributions**:
 Video analytic software - Core recognition system and all other modules (
-  cleanup, break monolith to components, increase uptime to 99.99%,
-  migrate by modules to different OSes, CPUs, programming languages, implement multiple APIs,
-  create tools for debugging, logging, performance monitoring, integration, configuration, etc.).
+ cleanup, split monolith to modules, increase uptime to 99.99%,
+ migrate by modules to different OSes, CPUs, programming languages, implement multiple APIs,
+ create tools for debugging, logging, performance monitoring, integration, configuration, etc.)
 
 
 ### 2005 - 2011 TopS BI - Lead Software Developer
