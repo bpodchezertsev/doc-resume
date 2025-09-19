@@ -56,16 +56,16 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
 ### 2024 Dukascopy - Senior Java Developer
 
-**Skills**: SAAS, Java Swing UI, algorithms, optimizations, refactoring, parsing, CI/CD, Linux desktop, functional programming, GUI, reporting. (Java)
+**Skills**: Fintech, Trading, SAAS, Java Swing UI, algorithms, optimizations, refactoring, parsing, CI/CD, Linux desktop, functional programming, GUI, reporting. (Java)
 
-**Key contributions**: Rich UI (reporting, optimizations, simplifications, generalizations, code branches synchronization, tools, checkers, type safety).
+**Key contributions**: Fintech: Trading software - Rich UI (reporting, optimizations, simplifications, generalizations, code branches synchronization, tools, checkers, type safety).
 
 
 ### 2021 - 2023 Iiko/Syrve - Senior Java Developer
 
-**Skills**: SAAS, Backend, GUI, JSP, Tomcat, Spring, Hibernate, MSSQL/Postgres, MQ, data modeling, code generation, metrics, CI/CD, parsing, functional programming. (Java, JSP, C#, .Net, Javascript, PHP)
+**Skills**: Restaurant management software, SAAS, Backend, GUI, JSP, Tomcat, Spring, Hibernate, MSSQL/Postgres, MQ, data modeling, code generation, metrics, CI/CD, parsing, functional programming. (Java, JSP, C#, .Net, Javascript, PHP)
 
-**Key contributions**: Core system services (metrics, optimizations, modeling, API code generation, helpdesk and administrative tools).
+**Key contributions**: Restaurant management software - Core system services (metrics, optimizations, modeling, API code generation, helpdesk and administrative tools).
  
 
 ### 2016 - 2020 Servionica - Lead Software Developer
@@ -80,7 +80,7 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 **Skills**: Video analytic software, Backend, GUI, Swing UI, Computer Vision (OpenCV), IP Cameras, Postgres, sandboxing, interprocess communication, network communication, porting, migrations, embedded. (Delphi/Lazarus/FPC, C++, Java, scripts)
 
 **Key contributions**:
-Core recognition system (
+Video analytic software - Core recognition system and all other modules (
   cleanup, break monolith to components, increase uptime to 99.99%,
   migrate by modules to different OSes, CPUs, programming languages, implement multiple APIs,
   create tools for debugging, logging, performance monitoring, integration, configuration, etc.).
@@ -88,12 +88,12 @@ Core recognition system (
 
 ### 2005 - 2011 TopS BI - Lead Software Developer
 
-**Skills**: Insurance software, Map rendering software, Backend, Swing UI, modules for various application servers, JSP, Java Web Start, Oracle/Oracle Lite/Sybase/MSSQL, database administration tools, CI/CD. (Java, JSP, Javascript)
+**Skills**: Insurance software, GIS, Backend, Swing UI, modules for various application servers, JSP, Java Web Start, Oracle/Oracle Lite/Sybase/MSSQL, database administration tools, CI/CD. (Java, JSP, Javascript)
 
 **Key contributions**:
   Car insurance system for RGS (UI modules, geo-classificators, database migrations, database administration tools);
   Insurance system for Alpha Insurance (typesafe ORM system, Web UI);
-  Geo-map Web UI for MosEnergo (rendering service, backend Web UI, frontend Web UI, geo-classificators).
+  GIS Web UI for MosEnergo (rendering service, backend, frontend Web UI, geo-classificators).
 
 
 ### 2003 - 2005 BSS/BFT - Lead Software Developer
