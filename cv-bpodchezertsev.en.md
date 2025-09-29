@@ -57,7 +57,7 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
 ### 2024-now Wings Of Mine - Founder
 
-**Skills**: Software migration, data modeling, optimizations, refactoring, parsing. (Java, C#, Rust, Python)
+**Skills**: Software migration, data modeling, optimizations, refactoring, parsing. (Java, C#, Rust, Python, C++)
 
 **Key contributions**: Software migration tools. Analytic reports. Hardware modeling. R&D.
 
