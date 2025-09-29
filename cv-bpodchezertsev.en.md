@@ -47,35 +47,43 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
 ## History
 
-- [2024 Dukascopy](#2024-dukascopy---senior-java-developer)
-- [2021 - 2023 Iiko/Syrve](#2021---2023-iikosyrve---senior-java-developer)
-- [2016 - 2020 Servionica](#2016---2020-servionica---lead-software-developer)
-- [2012 - 2016 RusTeleSys](#2012---2016-rustelesys---lead-software-developer)
-- [2005 - 2011 TopS BI](#2005---2011-tops-bi---lead-software-developer)
-- [2003 - 2005 BSS/BFT](#2003---2005-bssbft---lead-software-developer)
+- [2024-now Wings Of Mine](#2024-now-wings-of-mine---founder)
+- [2024-2024 Dukascopy](#2024-2024-dukascopy---senior-java-developer)
+- [2021-2023 Iiko/Syrve](#2021-2023-iikosyrve---senior-java-developer)
+- [2016-2020 Servionica](#2016-2020-servionica---lead-software-developer)
+- [2012-2016 RusTeleSys](#2012-2016-rustelesys---lead-software-developer)
+- [2005-2011 TopS BI](#2005-2011-tops-bi---lead-software-developer)
+- [2003-2005 BSS/BFT](#2003-2005-bssbft---lead-software-developer)
 
-### 2024 Dukascopy - Senior Java Developer
+### 2024-now Wings Of Mine - Founder
+
+**Skills**: Software migration, data modeling, optimizations, refactoring, parsing. (Java, C#, Rust, Python)
+
+**Key contributions**: Software migration tools. Analytic reports. Hardware modeling. R&D.
+
+
+### 2024-2024 Dukascopy - Senior Java Developer
 
 **Skills**: Fintech, Trading, SAAS, Java Swing UI, algorithms, optimizations, refactoring, parsing, CI/CD, Linux desktop, functional programming, GUI, reporting. (Java)
 
 **Key contributions**: Fintech: Trading software - Rich UI (reporting, optimizations, simplifications, generalizations, code branches synchronization, tools, checkers, type safety).
 
 
-### 2021 - 2023 Iiko/Syrve - Senior Java Developer
+### 2021-2023 Iiko/Syrve - Senior Java Developer
 
 **Skills**: Restaurant management software, SAAS, Backend, GUI, JSP, Tomcat, Spring, Hibernate, MSSQL/Postgres, MQ, data modeling, code generation, metrics, CI/CD, parsing, functional programming. (Java, JSP, C#, .Net, Javascript, PHP)
 
 **Key contributions**: Restaurant management software - Core system services (metrics, optimizations, modeling, API code generation, helpdesk and administrative tools).
  
 
-### 2016 - 2020 Servionica - Lead Software Developer
+### 2016-2020 Servionica - Lead Software Developer
 
 **Skills**: Call-center software, Backend, telephony, integrations, microservices, MQ, MQSeries, RabbitMQ, Kafka, Docker, Spring, GUI, Swing UI, Oracle/Oracle PLSQL/Postgres/MSSQL, tools, CI/CD, Maven plugin, code generation, Eclipse, JSP, Jelly, reporting tools, metadata, PDF forms, PDFBox. (Java, Delphi/Lazarus, Python, Javascript, JSP, PHP, VBA)
  
 **Key contributions**: Call-center helpdesk software (integrations, telephony, UI, microservices, tools).
 
 
-### 2012 - 2016 RusTeleSys - Lead Software Developer
+### 2012-2016 RusTeleSys - Lead Software Developer
 
 **Skills**: Video analytic software, Backend, GUI, Swing UI, Computer Vision (OpenCV), IP Cameras, Postgres, sandboxing, interprocess communication, network communication, porting, migrations, embedded. (Delphi/Lazarus/FPC, C++, Java, scripts)
 
@@ -86,7 +94,7 @@ Video analytic software - Core recognition system and all other modules (
  create tools for debugging, logging, performance monitoring, integration, configuration, etc.)
 
 
-### 2005 - 2011 TopS BI - Lead Software Developer
+### 2005-2011 TopS BI - Lead Software Developer
 
 **Skills**: Insurance software, GIS, Backend, Swing UI, modules for various application servers, JSP, Java Web Start, Oracle/Oracle Lite/Sybase/MSSQL, database administration tools, CI/CD. (Java, JSP, Javascript)
 
@@ -96,7 +104,7 @@ Video analytic software - Core recognition system and all other modules (
   GIS Web UI for MosEnergo (rendering service, backend, frontend Web UI, geo-classificators).
 
 
-### 2003 - 2005 BSS/BFT - Lead Software Developer
+### 2003-2005 BSS/BFT - Lead Software Developer
 
 **Skills**: Fintech software, Backend, GUI, Excel VBA, Oracle/MSSQL/Firebird, parsing, functional script engines, workflow. (Java, Delphi, VBA)
 
