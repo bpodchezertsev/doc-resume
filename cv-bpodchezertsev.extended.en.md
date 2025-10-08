@@ -50,7 +50,7 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 - [2024-now Wings Of Mine](#2024-now-wings-of-mine---founder)
 - [2024-2024 Dukascopy](#2024-2024-dukascopy---senior-software-developer)
 - [2021-2023 Iiko/Syrve](#2021-2023-iikosyrve---senior-software-developer)
-- [2016-2020 Servionica](#2016-2020-servionica---lead-software-developer)
+- [2016-2020 Servionica](#2016-2020-servionica---lead-system-developer)
 - [2012-2016 RusTeleSys](#2012-2016-rustelesys---lead-software-developer)
 - [2005-2011 TopS BI](#2005-2011-tops-bi---lead-software-developer)
 - [2003-2005 BSS/BFT](#2003-2005-bssbft---lead-software-developer)
@@ -62,7 +62,7 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
 ### 2024-now Wings Of Mine - Founder
 
-**Skills**: Software migration, data modeling, optimizations, refactoring, parsing. (Java, C#, Rust, Python, C++)
+**Skills**: Software migration, data modeling, optimizations, refactoring, parsing. (Java, C#, Rust, Python, C++, Typescript)
 
 **Key contributions**: Software migration tools. Analytic reports. Hardware modeling. R&D.
 
@@ -81,7 +81,7 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 **Key contributions**: Restaurant management software - Core system services (metrics, optimizations, modeling, API code generation, helpdesk and administrative tools).
  
 
-### 2016-2020 Servionica - Lead Software Developer
+### 2016-2020 Servionica - Lead System Developer
 
 **Skills**: Call-center software, Backend, telephony, integrations, microservices, MQ, MQSeries, RabbitMQ, Kafka, Docker, Spring, GUI, Swing UI, Oracle/Oracle PLSQL/Postgres/MSSQL, tools, CI/CD, Maven plugin, code generation, Eclipse, JSP, Jelly, reporting tools, metadata, PDF forms, PDFBox. (Java, Delphi/Lazarus, Python, Javascript, Typescript, JSP, PHP, VBA)
  
@@ -130,7 +130,7 @@ Video analytic software - Core recognition system and all other modules (
   (Java, Delphi/Pascal, C++, scripts)
 
 **Key contributions**:
-- Increase main banking system uptime from 99% to 99.9% (Code cleanup, synchronize code branches to 95% common parts (including porting/backporting 16/32 bit), full rebuild of some subsystems (including reverse engineering)). 
+- Increase main banking system uptime from 99% to 99.9% (Code cleanup, synchronize code branches to 95% common parts (including porting/backporting 16/32 bit), full rebuild of some subsystems (including reverse engineering)).
 - Implement new database management UI, IDE plugins
 - Hardware integration plugins and management consoles.
 
