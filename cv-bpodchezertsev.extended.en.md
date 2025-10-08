@@ -2,211 +2,170 @@
 
 LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
-# My goals
-- As a Team Leader: Improve the team's performance today and in the future.
-- As a Business Analyst: Design features as combinations of reusable, long-term parts.
-- As a System Architect: Design the most safe, reusable, and efficient long-term solutions.
-- As a Software Developer: Implement safe, reusable, and efficient long-term solutions with the smallest possible code and useful features per code size.
+**Areas of application:** system programming, reverse engineering, R&D, SAAS, fintech, healthtech, insurance, car insurance, geosurveying, video analytics, hardware, testbeds
 
-# How I work
-- Deeply analyze the code/problem to find ways to fix not only current issues but also future improvements, and create recommendations for that.
-- Make it harder to create future bugs by organizing the code in predictive ways.
-- Don't stop at exploring common areas, but try to develop something with unique features.
+**Software types:** frameworks, libraries, backend, rich UI, web-client, CLI, parsers, embedded script engines, monitoring, metrics, 2D renders, modeling, code generation
 
-# Explanation of the main goals
-In many of my works, I focus on the productivity of our teams.
-- For our development teams, I have created reusable helpers, libraries, and frameworks to avoid routine operations and isolate complex decisions.
-- For the development and testing teams, I create APIs and tools for debugging, data collection and output, analysis, and monitoring.
-- For the support teams, I create useful APIs and tools.
+**Programming languages:** Java, C#, C++, C, Python, Javascript, Delphi(Lazarus), Rust, Typescript, VBA, scripts, shell scripts, Assembler, XBase(COBOL-related, dBase, FoxPro, Clipper), Fortran, Lisp(Autolisp), Prolog
 
-# Explanation of how I work
-- I analyze huge amounts of code to find possible solutions and improvements from simple bugs to major design flaws.
-- In my job, I actively take further direction from our and other teams and try to test and implement solutions to address these directions,
-  avoiding bureaucracy to help teams work without headaches.
-- In all my jobs, I get the most difficult tasks, creating many tasks for bugs and design flaws that I find.
+**Hardware-related:** drivers, hardware interfaces, modeling, manufacturing, milling machines, CNC, testbeds, low-level, embedded
 
-# Development style
-- Declarative design
-- Domain-driven design
-- Functional design
-- Metadata-driven architecture
+**Development style:** Declarative design, Domain-driven design, Functional design, Metadata-driven architecture
 
-# Types of projects
-- software types: frameworks, libraries, backend, rich UI, web-client, CLI, low-level, embedded
-- software areas: parsers, script engines, monitoring, metrics, 2D renders, modeling, code generation
-- hardware-related: drivers, hardware interfaces, modeling, manufacturing, milling machines, CNC, testbeds  
+### Migration-related works
+- Migration of XBase (COBOL-related) GIS applications to Pascal (Delphi) GUI applications. (Method: Complete rewrite)
+- Migration of Pascal (Delphi) text/console banking applications from to GUI applications. (Method: Layer extraction)
+- Migration of controller tools from Turbo BASIC to C++ (Method: Complete rewrite)
+- Migration of Java insurance applications from Oracle to Sybase (Method: Layer extraction)
+- Migration of stored procedures wrapped in web services to a direct DB access layer for a Java insurance web application (Method: Layer extraction)
+- Migration of a monolithic Delphi (Lazarus) + C++ C/S video analytics system to a modular multi-platform (Linux, ARM, Android) multi-language (+Java, +Scripts) system, which allowed creating assemblies from a standalone apps to a multi-tier systems. (Method: Layer extraction + partial rewrite)
+- Migration of a multi-language system to a standard API. (Method: (Semi)automated migration + data model migration + code generation (generation gap) + layer extraction)
 
-# Areas of application
-- system programming, reverse engineering, R&D
-- SAAS
-- fintech
-- healthtech
-- insurance, car insurance
-- geosurveying
-- hardware, testbeds, R&D
-
-## My UI-related works
-- Metadata-driven UI libraries (+ two-way tools) (Java + Swing, Delphi, Lazarus)
-- Functional-reactive UI libraries and helpers (Java + Swing, Delphi, Lazarus)
-- Functional scripting engines an/or interactive script consoles for local and remote app models and UI controls (Java + Swing, Delphi)
-- GUI facade and remote facade for text-based app models (Delphi, C++, WinAPI)
+### UI-related works
+- Metadata-driven UI libraries (Java + Swing, Delphi, Lazarus)
+- Reactive UI libraries + scripting (Java + Swing, Delphi, Lazarus)
 - Vector GUIs (Java, Delphi, Javascript)
 - Also: Android, SWT, JWS, GWT
 
-_I mainly troubleshoot multithreading issues in many projects, including UI projects._
+### Hardware-related works
+- Telephony interfaces, management consoles, configuring and monitoring software, billing services, embedded software (Delphi/Lazarus, Java, C++)
+- Computer Vision (OpenCV), IP Cameras (Delphi/Lazarus, Java, C++)
+- APIs and management consoles for fiscal printers (Delphi)
+- Spy tools for reverse-engineering protocols of medical devices interfaces (Delphi, C++)
+- Testbeds + hardware drivers (Delphi, C++)
+- Aircraft design (C++, Python, OpenSCAD)
+- Installation and maintenance of various hardware
+- Milling machines, OpenSCAD modeling
 
-## My backend-related works
-- Functional scripts for UI models and backend models (Java)
-- GraphQL-like queries from multiple data sources, including the queries themselves (Java)
-- Workers subprocesses sandboxing to avoid instability of native libraries (Java, Delphi, Pascal, C++, OpenCV)
-- Functional scripting engines for UI models and backend models (Java, Delphi)
-- GUI facade and remote facade for text-based UI libraries (Pascal, C++, WinAPI)
-- Native libraries integrations.
-
-_I mainly troubleshoot multithreading issues in many projects, including backend projects._
-
-## My hardware-related works
-- Telephony interfaces, management consoles, configuring and monitoring software, billing services, embedded software (Delphi/Lazarus, Java, C++, C++ Builder, Watcom C++, Watcom Optima, Assembler)
-- Computer Vision (OpenCV), IP Cameras (Delphi/Lazarus, Java, C++, C++ Builder)
-- APIs and management consoles for fiscal printers. (Delphi)
-- Spy tools for reverse-engineering protocols of medical devices interfaces. (Delphi)
-- Graphics rendering software for printers and plotters. (Pascal)
-- Improvements, fixes, hardware drivers, hardware testbeds, create interfaces to medical hardware equipment and made other hardware interfaces, including telephony, and protocol reverse engineering. (Pascal, Delphi, C++, Assembler)
-- Design, modeling, calculations and creation of drones (C++, Python, OpenSCAD)
-- Installation and maintenance of various hardware.
-- Milling machines, OpenSCAD modeling.
-
-_I mainly troubleshoot hardware issues in many projects, including side jobs._
-
-# Largest projects with all my own design and implementation that I've done by type
-- Largest project I made: Universal report generator: ~1M lines Java, Delphi, VBA. (Also my largest multilanguage scripting engines and metadata-based operations.)
-- Largest refactoring (+migrations +extensions) I made: Licence plate recognition systems: ~500K lines of FPC/Lazarus/Delphi, Java, C++.
-- Largest metadata collectors & code generators I made: Iiko/Syrve restaurant software: ~100K lines of Java
-- Largest embedded I made: Telephony hardware: ~10K lines of C++
-
-# My latest pet-projects in progress
-- An umbrella software project for all my experimental performance, compatibility, reusability, flexibility libraries, utilities and snippets. Goal is multi-language interoperability (currently Java and Rust, outdated parts in C++, Python), performance, DDD and code generation.
-- A hardware project of development principal new multipurpose omnidirectional drone family (I use CADs and Python for 3D-modelling and principal modelling).
-- Literature project of hard sci-fi novell in the nearest future.
-
-# Other pet-projects
-- various programming languages (Java, C#, Rust, C++, Python, Javascript): rare patterns, metadata, dynamic classes, complex type safety, data transformations/mutations, binary protocols + memory mapped files, reflection, etc.
-- javascript: layered declarative modules dependence resolving library, safe code serialization library, virtual UI library, Bindows, Babylon, Node.js, etc.
-- java: standard library (and basic methods) variations and optimizations, declarative proxies, dependence resolvers, SWT, GWT, Vaadin, libGDX, etc.
-- hardware: aircraft designs (overall, frame, propulsion), testbeds, etc.
+### Pet-projects:
+- java: standard library (and basic methods) variations and optimizations, dependency resolvers, SWT, GWT, Vaadin, libGDX, etc.
+- javascript: dependency resolvers, serializations, UI, Bindows, Babylon, Node.js, etc.
+- Other programming languages: (C#, Rust, C++, Python)
+- Aircraft designs (overall, frame, propulsion), testbeds, etc.
+- Literature project of hard sci-fi novell in the nearest future
 
 
-# History
+## History
 
-- [2024 Dukascopy](#2024-dukascopy)
-- [2021 - 2023 Iiko/Syrve](#2021---2023-iikosyrve)
-- [2016 - 2020 Servionica](#2016---2020-servionica)
-- [2012 - 2016 RusTeleSys](#2012---2016-rustelesys)
-- [2005 - 2011 TopS BI](#2005---2011-tops-bi)
-- [2003 - 2005 BSS/BFT](#2003---2005-bssbft)
-- [1999 - 2003 Quorum](#1999---2003-quorum)
-- [1998 - 1999 Altey Laboratories](#1998---1999-altey-laboratories)
-- [1995 - 1998 Prais Telecom](#1995---1998-prais-telecom)
+- [2024-now Wings Of Mine](#2024-now-wings-of-mine---founder)
+- [2024-2024 Dukascopy](#2024-2024-dukascopy---senior-software-developer)
+- [2021-2023 Iiko/Syrve](#2021-2023-iikosyrve---senior-software-developer)
+- [2016-2020 Servionica](#2016-2020-servionica---lead-software-developer)
+- [2012-2016 RusTeleSys](#2012-2016-rustelesys---lead-software-developer)
+- [2005-2011 TopS BI](#2005-2011-tops-bi---lead-software-developer)
+- [2003-2005 BSS/BFT](#2003-2005-bssbft---lead-software-developer)
+- [1999-2003 Quorum - Lead Software Developer](#1999-2003-quorum---lead-software-developer)
+- [1998-1999 Altey Laboratories - System Engineer](#1998-1999-altey-laboratories---system-engineer)
+- [1995-1998 Prais Telecom - Software Developer](#1995-1998-prais-telecom---software-developer)
+- [1992-1995 Moscow State Mining University - Software Developer](#1992-1995-moscow-state-mining-university---software-developer)
+- [1987-1991 Moscow Instrument-building Technical College](#1987-1991-moscow-instrument-building-college)
+
+### 2024-now Wings Of Mine - Founder
+
+**Skills**: Software migration, data modeling, optimizations, refactoring, parsing. (Java, C#, Rust, Python, C++)
+
+**Key contributions**: Software migration tools. Analytic reports. Hardware modeling. R&D.
 
 
-## 2024 Dukascopy
+### 2024-2024 Dukascopy - Senior Software Developer
 
-**Title**: Senior Java Developer.
+**Skills**: Fintech, Trading, SAAS, Java Swing UI, algorithms, optimizations, refactoring, parsing, CI/CD, Linux desktop, functional programming, GUI, reporting. (Java)
 
-**Work on**: SAAS, Trading software, Java Swing UI, libraries, algorithms, optimizations, refactoring, parsing, CI/CD.
-
-**Key contributions**: Rich UI (reporting, optimizations, simplifications, generalizations, code branches synchronization, tools, checkers, type safety).
+**Key contributions**: Fintech: Trading software - Rich UI (reporting, optimizations, simplifications, generalizations, code branches synchronization, tools, checkers, type safety).
 
 
-## 2021 - 2023 Iiko/Syrve
+### 2021-2023 Iiko/Syrve - Senior Software Developer
 
-**Title**: Senior Java Developer
+**Skills**: Restaurant management software, SAAS, Backend, GUI, JSP, Tomcat, Spring, Hibernate, MSSQL/Postgres, MQ, data modeling, code generation, metrics, CI/CD, parsing, functional programming. (Java, JSP, C#, .Net, Javascript, PHP)
 
-**Work on**: SAAS, Restaurant software, Backend, GUI, JSP, Tomcat, Spring, Hibernate, MSSQL/Postgres, MQ, CLI, data models, code generation, metrics, CI/CD. (Java, C#, JSP, Javascript, PHP)
-
-**Key contributions**: Core system services (metrics, optimizations, modeling, API code generation, helpdesk and administrative tools).
+**Key contributions**: Restaurant management software - Core system services (metrics, optimizations, modeling, API code generation, helpdesk and administrative tools).
  
 
-## 2016 - 2020 Servionica
+### 2016-2020 Servionica - Lead Software Developer
 
-**Title**: Lead System Designer
-
-**Work on**: Call-center software, Backend, telephony, microservices, MQ, Docker, Spring, GUI, Swing UI, Oracle/Oracle PLSQL/Postgres/MSSQL, tools, CI/CD, Maven plugin, code generation, JSP, Tomcat, reporting tools. (Java, Python, Javascript, JSP, PHP)
+**Skills**: Call-center software, Backend, telephony, integrations, microservices, MQ, MQSeries, RabbitMQ, Kafka, Docker, Spring, GUI, Swing UI, Oracle/Oracle PLSQL/Postgres/MSSQL, tools, CI/CD, Maven plugin, code generation, Eclipse, JSP, Jelly, reporting tools, metadata, PDF forms, PDFBox. (Java, Delphi/Lazarus, Python, Javascript, Typescript, JSP, PHP, VBA)
  
 **Key contributions**: Call-center helpdesk software (integrations, telephony, UI, microservices, tools).
 
 
-## 2012 - 2016 RusTeleSys
+### 2012-2016 RusTeleSys - Lead Software Developer
 
-**Title**: Lead Software Developer
-
-**Work on**: Video analytic software, Backend, GUI, Swing UI, Computer Vision (OpenCV), IP Cameras, Postgres, sandboxing, interprocess communication, network communication, porting, migrations, embedded. (Delphi/Lazarus/FPC, C++, Java, scripts)
+**Skills**: Video analytic software, Backend, GUI, Swing UI, Computer Vision (OpenCV), IP Cameras, Postgres, sandboxing, interprocess communication, network communication, porting, migrations, embedded. (Delphi/Lazarus/FPC, C++, Java, scripts)
 
 **Key contributions**:
-Core recognition system (
-  cleanup, break monolith to components, increase uptime to 99.99%,
-  migrate by modules to different OSes, CPUs, programming languages, implement multiple APIs,
-  create tools for debugging, logging, performance monitoring, integration, configuration, etc.).
+Video analytic software - Core recognition system and all other modules (
+ cleanup, split monolith to modules, increase uptime to 99.99%,
+ migrate by modules to different OSes, CPUs, programming languages, implement multiple APIs,
+ create tools for debugging, logging, performance monitoring, integration, configuration, etc.)
 
 
-## 2005 - 2011 TopS BI
+### 2005-2011 TopS BI - Lead Software Developer
 
-**Title**: Lead Software Developer
-
-**Work on**: Insurance software, Map rendering software, Backend, Swing UI, modules for various application servers, JSP, Java Web Start, Oracle/Oracle Lite/Sybase/MSSQL, database administration tools, CI/CD. (Java, JSP, Javascript)
+**Skills**: Insurance software, GIS, Backend, Swing UI, modules for various application servers, JSP, Java Web Start, Oracle/Oracle Lite/Sybase/MSSQL, database administration tools (Oracle), CI/CD, Oracle application servers. (Java, JSP, Javascript, C++)
 
 **Key contributions**:
-  Car insurance system for RGS (UI modules, geo-classificators, database migrations, database administration tools);
-  Insurance system for Alpha Insurance (typesafe ORM system, Web UI);
-  Geo-map Web UI for MosEnergo (rendering service, backend Web UI, frontend Web UI, geo-classificators).
+- Car insurance system for RGS (UI modules, geo-classificators, database migrations, database administration tools);
+- Insurance system for Alpha Insurance (typesafe ORM system, Web UI);
+- GIS Web UI for MosEnergo (rendering service, backend, frontend Web UI, geo-classificators).
 
 
-## 2003 - 2005 BSS/BFT
+### 2003-2005 BSS/BFT - Lead Software Developer
 
-**Title**: Lead Software Developer
-
-**Work on**: Fintech software, Backend, GUI, Excel VBA, Oracle/MSSQL/Firebird, parsing, functional script engines, workflow. (Java, Delphi, VBA)
+**Skills**: Fintech software, Backend, GUI, Excel VBA, Oracle/MSSQL/Firebird, parsing, functional script engines, workflow, CORBA, EJB, JBoss. (Java, Delphi, VBA)
 
 **Key contributions**:
-  New powerful universal reporting tool (
-    New types of universal data sources for datasource repository, including GraphQL-like data sources and scripting;
-    Universal UI with scripting for structures manipulations for data sources, forms and reports;
-    Markup language for Excel templates;
-    Programmable by user (in functional style) report rendered for Excel).
+- New powerful universal reporting tool
+  - New types of universal data sources for datasource repository, including GraphQL-like data sources and scripting;
+  - Universal UI with scripting for structures manipulations for data sources, forms and reports;
+  - Markup language for Excel templates;
+  - Programmable by user (in functional style) report renderer for Excel;
+- Extensions for core system (workflow scripting, UI models improvements).
 
 
-## 1999 - 2003 Quorum
+## 1999-2003 Quorum - Lead Software Developer
 
-**Title**: Lead Software Developer
-
-**Work on**: Fintech software, backend, GUI, WinAPI(16/32), DOS, COM, Btrieve/Pervasive/Oracle/Oracle PLSQL, communications, hardware integration, CLI, parsers, scripting engines, plugins, database administration tools, tools for CI/CD toolchains, code generators, parsers.
+**Skills**: Fintech software, backend, GUI, WinAPI(16/32), DOS, COM, Btrieve/Pervasive/Oracle/Oracle PLSQL,
+  communications, hardware integration, CLI, parsers, scripting engines, plugins, database administration tools (Oracle),
+  Oracle Application Server, CORBA, EJB, tools for CI/CD toolchains, code generators, parsers.
+  (Java, Delphi/Pascal, C++, scripts)
 
 **Key contributions**:
-  Increase main banking system uptime from 99% to 99.9% (Code cleanup, synchronize code branches to 95% common parts (including porting/backporting 16/32 bit), full rebuild of some subsystems (including reverse engineering). 
-  Implement new database management UI, IDE plugins, Hardware integration plugins and management consoles.
+- Increase main banking system uptime from 99% to 99.9% (Code cleanup, synchronize code branches to 95% common parts (including porting/backporting 16/32 bit), full rebuild of some subsystems (including reverse engineering)). 
+- Implement new database management UI, IDE plugins
+- Hardware integration plugins and management consoles.
 
 
-## 1998 - 1999 Altey Laboratories
+## 1998-1999 Altey Laboratories - System Engineer
 
-**Title**: System Engineer 
-
-**Work on**:
-  Healthtech software, Medical equipment, Medical hardware, Interfaces with medical hardware, Backend,
-  Plugins for existing medical systems, COM, DCOM, WinAPI, Interbase, Firebird, DBF.
+**Skills**: Healthtech software, Medical equipment, Medical hardware, Interfaces with medical hardware, Backend,
+  Plugins for existing medical systems, COM, DCOM, WinAPI, Interbase, Firebird, DBF, parsing,
+  hardware installation and maintenance, support, end-user support.
   (Delphi, C++)
 
-**Key contributions**:
-  Full integration of hardware and software from start to implementation for various clients.
+**Key contributions**: Full integration of hardware and software from start to implementation for various clients.
 
 
-## 1995 - 1998 Prais Telecom
+## 1995-1998 Prais Telecom - Software Developer
 
-**Title**: Software Developer
-
-**Work on**:
-  Telephony software, GUI, Hardware interfaces, Embedded, Communications, WinAPI (16/32).
+**Skills**: Telephony software, GUI, Hardware interfaces, Embedded, Communications, WinAPI (16/32).
   (Delphi, C++, Watcom Optima, embedded systems, assembler)
 
 **Key contributions**:
-  Billing system with reporting tools.
-  Universal maintenance system with rich possibilities and scripting.
+- Billing system with reporting tools.
+- Universal maintenance system with rich possibilities and scripting.
+
+
+## 1992-1995 Moscow State Mining University - Software Developer
+
+**Field**: Department of Surveying and Geology
+
+**Skills**: Surveying management software, Mine Surveying, Business trips (Pascal, Assembler, Clipper) 
+
+**Key contributions**: Surveying management software, UI frameworks with supporting various I/O devices.
+
+
+## 1987-1991 Moscow Instrument-building College
+
+**Field**: Computer Science, Software Engineering, Applied Mathematics, Analog Devices
+
+**Skills**: OOP, interrupt handling, multitasking, low-level hardware access, drivers, graphics, parsing, symbolic math, scripts, CLI, GUI, Text UI, Turbo Vision, electronics, analog devices, DOS, Pascal, C, C++, Assembler, XBase(COBOL-like for PC desktops: dBase, FoxPro, Clipper), Fortran, Prolog, Lisp, shell scripts. 
