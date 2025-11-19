@@ -57,7 +57,7 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 - [1999-2003 Quorum - Lead Software Developer](#1999-2003-quorum---lead-software-developer)
 - [1998-1999 Altey Laboratories - System Engineer](#1998-1999-altey-laboratories---system-engineer)
 - [1995-1998 Prais Telecom - Software Developer](#1995-1998-prais-telecom---software-developer)
-- [1992-1995 Moscow State Mining University - Software Developer](#1992-1995-moscow-state-mining-university---software-developer)
+- [1991-1995 Moscow State Mining University - Software Developer](#1991-1995-moscow-state-mining-university---software-developer)
 - [1987-1991 Moscow Instrument-building Technical College](#1987-1991-moscow-instrument-building-college)
 
 ### 2024-now Wings Of Mine - Founder
@@ -155,11 +155,11 @@ Video analytic software - Core recognition system and all other modules (
 - Universal maintenance system with rich possibilities and scripting.
 
 
-## 1992-1995 Moscow State Mining University - Software Developer
+## 1991-1995 Moscow State Mining University - Software Developer
 
 **Field**: Department of Surveying and Geology
 
-**Skills**: Surveying management software, Mine Surveying, Business trips (Pascal, Assembler, Clipper) 
+**Skills**: GIS, Surveying management software, Mine Surveying, Business trips (Pascal, Assembler, Clipper) 
 
 **Key contributions**: Surveying management software, UI frameworks with supporting various I/O devices.
 
