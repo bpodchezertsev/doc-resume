@@ -138,7 +138,7 @@ Video analytic software - Core recognition system and all other modules (
 ## 1998-1999 Altey Laboratories - System Engineer
 
 **Skills**: Healthtech software, Medical equipment, Medical hardware, Interfaces with medical hardware, Backend,
-  Plugins for existing medical systems, COM, DCOM, WinAPI, Interbase, Firebird, DBF, parsing,
+  Integration plugins, COM, DCOM, WinAPI, Interbase, Firebird, DBF, parsing,
   hardware installation and maintenance, support, end-user support.
   (Delphi, C++)
 
