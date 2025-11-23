@@ -2,46 +2,45 @@
 
 LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
-**Areas of application:** system programming, reverse engineering, R&D, SAAS, fintech, healthtech, insurance, car insurance, geosurveying, video analytics, hardware, testbeds
-
-**Software types:** frameworks, libraries, backend, rich UI, web-client, CLI, parsers, embedded script engines, monitoring, metrics, 2D renders, modeling, code generation
-
-**Programming languages:** Java, C#, C++, C, Python, Javascript, Delphi(Lazarus), Rust, Typescript, VBA, scripts, shell scripts, Assembler, XBase(COBOL-related, dBase, FoxPro, Clipper), Fortran, Lisp(Autolisp), Prolog
-
-**Hardware-related:** drivers, hardware interfaces, modeling, manufacturing, milling machines, CNC, testbeds, low-level, embedded
-
-**Development style:** Declarative design, Domain-driven design, Functional design, Metadata-driven architecture
+### Skills
+- **Work performed**: Software development, prototyping, R&D, data modeling, 3D modeling, documentation, analytical reports
+- **Design**: Declarative design, functional design, domain-driven design, metadata-driven architecture
+- **Scope**: Insurance software, GIS, fintech, trading, medical, systems programming, low-level programming, embedded software, hardware management software, computer vision, video analytics, SAAS
+- **Hardware and manufacturing**: Design, manufacturing, embedded systems, testbeds, geosurveying, tooling, machine tool operation, milling machines, CNC, assembly, installation, hand tool operation
+- **Software types**: backend, frontend, web, CLI, GUI, Rich UI, console applications, plugins, hardware interfaces, drivers, embedded systems, libraries, frameworks
+- **Codebase management**: porting, software migration, data models, global cleanup, optimization, refactoring, code generation, reverse engineering, layering, monolith splitting, sandboxing, generalization, productivization
+- **Tool development for**: CI/CD, metrics collection, database administration, data model collection, code generation, hardware management, scripting
+- **Parsing and scripting**: parsing, substitution engines, functional scripting engines, workflow
+- **Program communication**: fast interprocess communication, isolation, sandboxing, integration with native libraries
+- **Programming languages**: Java, C#, Rust, Python, C++, C, Javascript, Typescript, Delphi/Lazarus/FPC, Excel VBA, Assembler, XBase (COBOL-related, dBase, FoxPro, Clipper), Fortran, Lisp, Prolog, scripts
+- **Databases**: Postgres, Oracle, Oracle Lite, Sybase, MSSQL, Firebird/Interbase, MUMPS/M, SQLite
+- **MQ**: IBM WebSphere MQ, RabbitMQ, Kafka
 
 ### Migration-related works
-- Migration of XBase (COBOL-related) GIS applications to Pascal (Delphi) GUI applications. (Method: Complete rewrite)
-- Migration of Pascal (Delphi) text/console banking applications from to GUI applications. (Method: Layer extraction)
-- Migration of controller tools from Turbo BASIC to C++ (Method: Complete rewrite)
-- Migration of Java insurance applications from Oracle to Sybase (Method: Layer extraction)
-- Migration of stored procedures wrapped in web services to a direct DB access layer for a Java insurance web application (Method: Layer extraction)
-- Migration of a monolithic Delphi (Lazarus) + C++ C/S video analytics system to a modular multi-platform (Linux, ARM, Android) multi-language (+Java, +Scripts) system, which allowed creating assemblies from a standalone apps to a multi-tier systems. (Method: Layer extraction + partial rewrite)
-- Migration of a multi-language system to a standard API. (Method: (Semi)automated migration + data model migration + code generation (generation gap) + layer extraction)
+- Monolithic C/S video analytics system (Delphi/Lazarus, C++) to a modular multi-platform (Linux, ARM, Android) multi-language (+Java, +Scripts) system (Method: Layer extraction + partial rewrite)
+- Multi-language system to a standard API (Method: (Semi)automated migration + data model migration + code generation (generation gap) + layer extraction)
+- Console banking applications (Pascal/Delphi) to GUI (Method: Layer extraction)
+- GIS applications (XBase (COBOL)) to GUI (Pascal/Delphi) (Method: Complete rewrite)
+- Insurance applications (Java) from Oracle to Sybase (Method: Layer extraction)
+- Controller tools from Turbo BASIC to C++ (Method: Complete rewrite)
+- Inefficient web services to a typed ORM for an insurance web application (Java) (Method: Layer extraction)
 
 ### UI-related works
-- Metadata-driven UI libraries (Java + Swing, Delphi, Lazarus)
-- Reactive UI libraries + scripting (Java + Swing, Delphi, Lazarus)
+- Metadata-driven and reactive UI libraries (Java + Swing, Delphi/Lazarus)
 - Vector GUIs (Java, Delphi, Javascript)
-- Also: Android, SWT, JWS, GWT
+- Also: Android, SWT, GWT, libGDX
 
 ### Hardware-related works
-- Telephony interfaces, management consoles, configuring and monitoring software, billing services, embedded software (Delphi/Lazarus, Java, C++)
-- Computer Vision (OpenCV), IP Cameras (Delphi/Lazarus, Java, C++)
-- APIs and management consoles for fiscal printers (Delphi)
-- Spy tools for reverse-engineering protocols of medical devices interfaces (Delphi, C++)
-- Testbeds + hardware drivers (Delphi, C++)
-- Aircraft design (C++, Python, OpenSCAD)
-- Installation and maintenance of various hardware
-- Milling machines, OpenSCAD modeling
+- Telephony, medical, maintenance software, billing services, embedded software, scriptable management consoles (C++, Delphi/Lazarus, Java)
+- Computer Vision (OpenCV) (C++, Delphi/Lazarus, Java)
+- Spy tools, reverse-engineering (C++, Delphi, Java)
+- Testbeds (C++, Delphi)
+- Milling machines, CNC, OpenSCAD modeling
+- Installation and maintenance
 
 ### Pet-projects:
-- java: standard library (and basic methods) variations and optimizations, dependency resolvers, SWT, GWT, Vaadin, libGDX, etc.
-- javascript: dependency resolvers, serializations, UI, Bindows, Babylon, Node.js, etc.
-- Other programming languages: (C#, Rust, C++, Python)
-- Aircraft designs (overall, frame, propulsion), testbeds, etc.
+- Libraries, alogrithms and data structures (Java, C#, Javascript, Rust, C++, Python)
+- Aircraft designs (overall, frame, propulsion), testbeds (C++, Python, OpenSCAD)
 - Literature project of hard sci-fi novell in the nearest future
 
 
@@ -83,7 +82,7 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
 ### 2016-2020 Servionica - Lead System Developer
 
-**Skills**: Call-center software, Backend, telephony, integrations, microservices, MQ, MQSeries, RabbitMQ, Kafka, Docker, Spring, GUI, Swing UI, Oracle/Oracle PLSQL/Postgres/MSSQL, tools, CI/CD, Maven plugin, code generation, Eclipse, JSP, Jelly, reporting tools, metadata, PDF forms, PDFBox. (Java, Delphi/Lazarus, Python, Javascript, Typescript, JSP, PHP, VBA)
+**Skills**: Call-center software, Backend, telephony, integrations, microservices, IBM WebSphere MQ, RabbitMQ, Kafka, Docker, Spring, GUI, Swing UI, Oracle/Oracle PLSQL/Postgres/MSSQL, tools, CI/CD, Maven plugin, code generation, Eclipse, JSP, Jelly, reporting tools, metadata, PDF forms, PDFBox. (Java, Delphi/Lazarus, Python, Javascript, Typescript, JSP, PHP, VBA)
  
 **Key contributions**: Call-center helpdesk software (integrations, telephony, UI, microservices, tools).
 
@@ -138,7 +137,7 @@ Video analytic software - Core recognition system and all other modules (
 ## 1998-1999 Altey Laboratories - System Engineer
 
 **Skills**: Healthtech software, Medical equipment, Medical hardware, Interfaces with medical hardware, Backend,
-  Integration plugins, COM, DCOM, WinAPI, Interbase, Firebird, DBF, parsing,
+  Integration plugins, MUMPS/M, COM, DCOM, WinAPI, Interbase, Firebird, DBF, parsing,
   hardware installation and maintenance, support, end-user support.
   (Delphi, C++)
 
