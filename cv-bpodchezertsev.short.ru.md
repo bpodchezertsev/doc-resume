@@ -1,4 +1,4 @@
-# Резюме: Борис Подчезерцев
+# CV: Борис Подчезерцев
 
 Профиль в LinkedIn: https://www.linkedin.com/in/boris-podchezertsev/
 
