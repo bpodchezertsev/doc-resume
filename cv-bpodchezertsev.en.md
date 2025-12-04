@@ -77,14 +77,14 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
 ### 2016-2020 Servionica - Lead System Developer
 
-**Skills**: Call-center software, Backend, telephony, integrations, microservices, IBM WebSphere MQ, RabbitMQ, Kafka, Docker, Spring, GUI, Swing UI, Oracle/Oracle PLSQL/Postgres/MSSQL, tools, CI/CD, Maven plugin, code generation, Eclipse, JSP, Jelly, reporting tools, metadata, PDF forms, PDFBox, Eclipse RCP. (Java, Delphi/Lazarus, Python, Javascript, Typescript, JSP, PHP, VBA)
+**Skills**: Call-center software, Backend, telephony, integrations, microservices, IBM WebSphere MQ, RabbitMQ, Kafka, Docker, Spring, GUI, Swing UI, Oracle/Oracle PLSQL/Postgres/MSSQL, tools, CI/CD, Maven plugin, code generation, Eclipse, JSP, Jelly, reporting tools, metadata, PDF forms, PDFBox, Eclipse RCP, reverse engineering. (Java, Delphi/Lazarus, Python, Javascript, Typescript, JSP, PHP, VBA)
  
 **Key contributions**: Call-center helpdesk software (integrations, telephony, UI, microservices, tools).
 
 
 ### 2012-2016 RusTeleSys - Lead Software Developer
 
-**Skills**: Video analytic software, Backend, GUI, Swing UI, Computer Vision (OpenCV), IP Cameras, Postgres, sandboxing, interprocess communication, network communication, porting, migrations, embedded. (Delphi/Lazarus/FPC, C++, Java, scripts)
+**Skills**: Video analytic software, Backend, GUI, Swing UI, Computer Vision (OpenCV), IP Cameras, Postgres, sandboxing, interprocess communication, network communication, porting, migrations, embedded. (Delphi/Lazarus/FPC, C++, Java, JavaCard, scripts)
 
 **Key contributions**:
 Video analytic software - Core recognition system and all other modules (
@@ -95,10 +95,10 @@ Video analytic software - Core recognition system and all other modules (
 
 ### 2005-2011 TopS BI - Lead Software Developer
 
-**Skills**: Insurance software, GIS, Backend, Swing UI, modules for various application servers, JSP, Java Web Start, Oracle/Oracle Lite/Sybase/MSSQL, database administration tools (Oracle), CI/CD, Oracle application servers. (Java, JSP, Javascript, C++)
+**Skills**: Insurance software, GIS, Backend, Swing UI, modules for various application servers, JSP, Java Web Start, Oracle/Oracle Lite/Sybase/MSSQL, database administration tools (Oracle), reverse engineering, CI/CD, Oracle application servers. (Java, JSP, Javascript, C++)
 
 **Key contributions**:
-- Car insurance system for RGS (UI modules, geo-classificators, database migrations, database administration tools);
+- Car insurance system for RGS (UI modules, geo-classificators, database migrations, database administration tools, reverse engineering);
 - Insurance system for Alpha Insurance (typesafe ORM system, Web UI);
 - GIS Web UI for MosEnergo (rendering service, backend, frontend Web UI, geo-classificators).
 
@@ -120,10 +120,10 @@ Video analytic software - Core recognition system and all other modules (
 
 **Skills**: Fintech software, backend, GUI, WinAPI(16/32), DOS, COM, Btrieve/Pervasive/Oracle/Oracle PLSQL,
   communications, hardware integration, CLI, parsers, scripting engines, plugins, database administration tools (Oracle),
-  Oracle Application Server, CORBA, EJB, tools for CI/CD toolchains, code generators, parsers.
+  Oracle Application Server, CORBA, EJB, tools for CI/CD toolchains, code generators, parsers, reverse engineering.
   (Java, Delphi/Pascal, C++, scripts)
 
 **Key contributions**:
-- Increase main banking system uptime from 99% to 99.9% (Code cleanup, synchronize code branches to 95% common parts (including porting/backporting 16/32 bit), full rebuild of some subsystems (including reverse engineering)).
+- Increase main banking system uptime from 99% to 99.9% (Code cleanup, synchronize code branches to 95% common parts (including porting/backporting 16/32 bit), full rebuild of some subsystems).
 - Implement new database management UI, IDE plugins
 - Hardware integration plugins and management consoles.
