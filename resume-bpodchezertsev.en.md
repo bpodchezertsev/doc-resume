@@ -12,7 +12,7 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 - **Tool development for**: CI/CD, metrics collection, database administration, data model collection, code generation, hardware management, scripting
 - **Parsing and scripting**: parsing, substitution engines, functional scripting engines, workflow
 - **Program communication**: fast interprocess communication, isolation, sandboxing, integration with native libraries
-- **Programming languages**: Java, C#, Rust, Python, C++, C, Javascript, Typescript, Delphi/Lazarus/FPC, Excel VBA, Assembler, XBase (COBOL-related, dBase, FoxPro, Clipper), Fortran, Lisp, Prolog, scripts
+- **Programming languages**: Java, JavaCard, C#, Rust, Python, C++, C, Javascript, Typescript, Delphi/Lazarus/FPC, Excel VBA, Assembler, XBase (COBOL-related, dBase, FoxPro, Clipper), Fortran, Lisp, Prolog, scripts
 - **Databases**: Postgres, Oracle, Oracle Lite, Sybase, MSSQL, Firebird/Interbase, MUMPS/M, SQLite
 - **MQ**: IBM WebSphere MQ, RabbitMQ, Kafka
 
@@ -31,14 +31,14 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 - Also: Android, SWT, GWT, libGDX
 
 ### Hardware-related works
-- Telephony, medical, maintenance software, billing services, embedded software, scriptable management consoles (C++, Delphi/Lazarus, Java)
+- Telephony, medical, maintenance software, billing services, embedded software, scriptable management consoles (C++, Delphi/Lazarus, Java, JavaCard)
 - Computer Vision (OpenCV) (C++, Delphi/Lazarus, Java)
 - Spy tools, reverse-engineering (C++, Delphi, Java)
 - Testbeds (C++, Delphi)
 - Milling machines, CNC, OpenSCAD modeling
 - Installation and maintenance
 
-### Pet-projects:
+### Pet-projects
 - Libraries, alogrithms and data structures (Java, C#, Javascript, Rust, C++, Python)
 - Aircraft designs (overall, frame, propulsion), testbeds (C++, Python, OpenSCAD)
 - Literature project of hard sci-fi novell in the nearest future

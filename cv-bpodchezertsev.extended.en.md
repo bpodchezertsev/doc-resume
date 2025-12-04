@@ -12,7 +12,7 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 - **Tool development for**: CI/CD, metrics collection, database administration, data model collection, code generation, hardware management, scripting
 - **Parsing and scripting**: parsing, substitution engines, functional scripting engines, workflow
 - **Program communication**: fast interprocess communication, isolation, sandboxing, integration with native libraries
-- **Programming languages**: Java, C#, Rust, Python, C++, C, Javascript, Typescript, Delphi/Lazarus/FPC, Excel VBA, Assembler, XBase (COBOL-related, dBase, FoxPro, Clipper), Fortran, Lisp, Prolog, scripts
+- **Programming languages**: Java, JavaCard, C#, Rust, Python, C++, C, Javascript, Typescript, Delphi/Lazarus/FPC, Excel VBA, Assembler, XBase (COBOL-related, dBase, FoxPro, Clipper), Fortran, Lisp, Prolog, scripts
 - **Databases**: Postgres, Oracle, Oracle Lite, Sybase, MSSQL, Firebird/Interbase, MUMPS/M, SQLite
 - **MQ**: IBM WebSphere MQ, RabbitMQ, Kafka
 
@@ -31,7 +31,7 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 - Also: Android, SWT, GWT, libGDX
 
 ### Hardware-related works
-- Telephony, medical, maintenance software, billing services, embedded software, scriptable management consoles (C++, Delphi/Lazarus, Java)
+- Telephony, medical, maintenance software, billing services, embedded software, scriptable management consoles (C++, Delphi/Lazarus, Java, JavaCard)
 - Computer Vision (OpenCV) (C++, Delphi/Lazarus, Java)
 - Spy tools, reverse-engineering (C++, Delphi, Java)
 - Testbeds (C++, Delphi)
@@ -89,7 +89,7 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
 ### 2012-2016 RusTeleSys - Lead Software Developer
 
-**Skills**: Video analytic software, Backend, GUI, Swing UI, Computer Vision (OpenCV), IP Cameras, Postgres, sandboxing, interprocess communication, network communication, porting, migrations, embedded. (Delphi/Lazarus/FPC, C++, Java, scripts)
+**Skills**: Video analytic software, Backend, GUI, Swing UI, Computer Vision (OpenCV), IP Cameras, Postgres, sandboxing, interprocess communication, network communication, porting, migrations, embedded. (Delphi/Lazarus/FPC, C++, Java, JavaCard, scripts)
 
 **Key contributions**:
 Video analytic software - Core recognition system and all other modules (
