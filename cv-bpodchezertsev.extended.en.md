@@ -82,7 +82,7 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 
 ### 2016-2020 Servionica - Lead System Developer
 
-**Skills**: Call-center software, Backend, telephony, integrations, microservices, IBM WebSphere MQ, RabbitMQ, Kafka, Docker, Spring, GUI, Swing UI, Oracle/Oracle PLSQL/Postgres/MSSQL, tools, CI/CD, Maven plugin, code generation, Eclipse, JSP, Jelly, reporting tools, metadata, PDF forms, PDFBox. (Java, Delphi/Lazarus, Python, Javascript, Typescript, JSP, PHP, VBA)
+**Skills**: Call-center software, Backend, telephony, integrations, microservices, IBM WebSphere MQ, RabbitMQ, Kafka, Docker, Spring, GUI, Swing UI, Oracle/Oracle PLSQL/Postgres/MSSQL, tools, CI/CD, Maven plugin, code generation, Eclipse, JSP, Jelly, reporting tools, metadata, PDF forms, PDFBox, Eclipse RCP. (Java, Delphi/Lazarus, Python, Javascript, Typescript, JSP, PHP, VBA)
  
 **Key contributions**: Call-center helpdesk software (integrations, telephony, UI, microservices, tools).
 

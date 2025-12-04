@@ -88,7 +88,7 @@
 
 ### 2016–2020 Servionica — Ведущий системный разработчик
 
-**Навыки**: ПО для колл-центров, бэкенд, телефония, интеграция, микросервисы, IBM WebSphere MQ, RabbitMQ, Kafka, Docker, Spring, графический интерфейс, Swing UI, Oracle/Oracle PLSQL/Postgres/MSSQL, инструменты, CI/CD, плагин Maven, генерация кода, Eclipse, JSP, Jelly, инструменты для создания отчётов, метаданные, PDF-формы, PDFBox. (Java, Delphi/Lazarus, Python, Javascript, Typescript, JSP, PHP, VBA)
+**Навыки**: ПО для колл-центров, бэкенд, телефония, интеграция, микросервисы, IBM WebSphere MQ, RabbitMQ, Kafka, Docker, Spring, графический интерфейс, Swing UI, Oracle/Oracle PLSQL/Postgres/MSSQL, инструменты, CI/CD, плагин Maven, генерация кода, Eclipse, JSP, Jelly, инструменты для создания отчётов, метаданные, PDF-формы, PDFBox, Eclipse RCP. (Java, Delphi/Lazarus, Python, Javascript, Typescript, JSP, PHP, VBA)
 
 **Ключевой вклад**: ПО для службы поддержки колл-центров (интеграция, телефония, UI, микросервисы, инструменты).
 
