@@ -9,20 +9,20 @@ I conduct comprehensive analysis of large codebases, identify errors and archite
 I work with input from various teams, prototyping and implementing solutions that alleviate their operational pain points.
 I usually take on the most complex tasks and initiate work to improve the design and code quality.
 
-Work performed: Software development, prototyping, R&D, data modeling, 3D modeling, documentation, analytical reports
-Design: Declarative design, functional design, domain-driven design, metadata-driven architecture
-Scope: Insurance software, GIS, fintech, billing, trading, medical, systems programming, low-level programming, embedded software, hardware management software, computer vision, video analytics, SAAS
-Hardware and manufacturing: Design, manufacturing, embedded systems, testbeds, geosurveying, tooling, machine tool operation, milling machines, CNC, assembly, installation, hand tool operation
-Software types: backend, frontend, web, CLI, GUI, Rich UI, console applications, plugins, hardware interfaces, drivers, embedded systems, libraries, frameworks
-Codebase management: porting, software migration, data models, global cleanup, optimization, refactoring, code generation, reverse engineering, layering, monolith splitting, sandboxing, generalization, productivization
-Tool development for: CI/CD, metrics collection, database administration, data model collection, code generation, hardware management, scripting
-Parsing and scripting: parsing, substitution engines, functional scripting engines, workflow
-Programming languages: Java, JavaCard, C#, Rust, Python, C++, C, Javascript, Typescript, Delphi/Lazarus/FPC, Excel VBA, Assembler, XBase (COBOL-related, dBase, FoxPro, Clipper), Fortran, Lisp, Prolog, scripts
-Databases: Postgres, Oracle, Oracle Lite, Sybase, MSSQL, Firebird/Interbase, MUMPS/M, SQLite
+Work performed: Software development, prototyping, R&D, data modeling, 3D modeling, documentation, analytical reports <br>
+Design: Declarative design, functional design, domain-driven design, metadata-driven architecture <br>
+Scope: Insurance software, GIS, fintech, billing, trading, medical, systems programming, low-level programming, embedded software, hardware management software, computer vision, video analytics, SAAS <br>
+Hardware and manufacturing: Design, manufacturing, embedded systems, testbeds, geosurveying, tooling, machine tool operation, milling machines, CNC, assembly, installation, hand tool operation <br>
+Software types: backend, frontend, web, CLI, GUI, Rich UI, console applications, plugins, hardware interfaces, drivers, embedded systems, libraries, frameworks <br>
+Codebase management: porting, software migration, data models, global cleanup, optimization, refactoring, code generation, reverse engineering, layering, monolith splitting, sandboxing, generalization, productivization <br>
+Tool development for: CI/CD, metrics collection, database administration, data model collection, code generation, hardware management, scripting <br>
+Parsing and scripting: parsing, substitution engines, functional scripting engines, workflow <br>
+Programming languages: Java, JavaCard, C#, Rust, Python, C++, C, Javascript, Typescript, Delphi/Lazarus/FPC, Excel VBA, Assembler, XBase (COBOL-related, dBase, FoxPro, Clipper), Fortran, Lisp, Prolog, scripts <br>
+Databases: Postgres, Oracle, Oracle Lite, Sybase, MSSQL, Firebird/Interbase, MUMPS/M, SQLite <br>
 
 I'd be happy to discuss the details of the vacancy and share more about my experience.
 
-Sincerely,
+Sincerely, <br>
 Boris Podchezertsev.
 
 https://www.linkedin.com/in/boris-podchezertsev/
