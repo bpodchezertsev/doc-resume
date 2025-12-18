@@ -23,3 +23,5 @@
 
 С уважением,
 Борис Подчезерцев.
+
+https://www.linkedin.com/in/boris-podchezertsev/
