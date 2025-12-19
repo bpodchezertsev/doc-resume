@@ -11,7 +11,7 @@ I usually take on the most complex tasks and initiate work to improve the design
 
 Work performed: Software development, prototyping, R&D, data modeling, 3D modeling, documentation, analytical reports <br>
 Design: Declarative design, functional design, domain-driven design, metadata-driven architecture <br>
-Scope: Insurance software, GIS, fintech, billing, trading, medical, systems programming, low-level programming, embedded software, hardware management software, computer vision, video analytics, SAAS <br>
+Scope: Insurance software, GIS, fintech, billing, trading, medical, low-level and system programming, embedded software, hardware management software, computer vision, video analytics, SAAS <br>
 Hardware and manufacturing: Design, manufacturing, embedded systems, testbeds, geosurveying, tooling, machine tool operation, milling machines, CNC, assembly, installation, hand tool operation <br>
 Software types: backend, frontend, web, CLI, GUI, Rich UI, console applications, plugins, hardware interfaces, drivers, embedded systems, libraries, frameworks <br>
 Codebase management: porting, software migration, data models, global cleanup, optimization, refactoring, code generation, reverse engineering, layering, monolith splitting, sandboxing, generalization, productivization <br>

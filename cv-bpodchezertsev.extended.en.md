@@ -5,7 +5,7 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 ### Skills
 - **Work performed**: Software development, prototyping, R&D, data modeling, 3D modeling, documentation, analytical reports
 - **Design**: Declarative design, functional design, domain-driven design, metadata-driven architecture
-- **Scope**: Insurance software, GIS, fintech, trading, medical, systems programming, low-level programming, embedded software, hardware management software, computer vision, video analytics, SAAS
+- **Scope**: Insurance software, GIS, fintech, billing, trading, medical, low-level and system programming, embedded software, hardware management software, computer vision, video analytics, SAAS
 - **Hardware and manufacturing**: Design, manufacturing, embedded systems, testbeds, geosurveying, tooling, machine tool operation, milling machines, CNC, assembly, installation, hand tool operation
 - **Software types**: backend, frontend, web, CLI, GUI, Rich UI, console applications, plugins, hardware interfaces, drivers, embedded systems, libraries, frameworks
 - **Codebase management**: porting, software migration, data models, global cleanup, optimization, refactoring, code generation, reverse engineering, layering, monolith splitting, sandboxing, generalization, productivization
