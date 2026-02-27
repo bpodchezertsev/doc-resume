@@ -39,7 +39,7 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 - Installation and maintenance
 
 ### Pet-projects:
-- Libraries, alogrithms and data structures (Java, C#, Javascript, Rust, C++, Python)
+- Libraries, algorithms and data structures (Java, C#, Javascript, Rust, C++, Python)
 - Aircraft designs (overall, frame, propulsion), testbeds (C++, Python, OpenSCAD)
 - Literature project of hard sci-fi novell in the nearest future
 
@@ -121,7 +121,7 @@ Video analytic software - Core recognition system and all other modules (
 - Extensions for core system (workflow scripting, UI models improvements).
 
 
-## 1999-2003 Quorum - Lead Software Developer
+### 1999-2003 Quorum - Lead Software Developer
 
 **Skills**: Fintech software, backend, GUI, WinAPI(16/32), DOS, COM, Btrieve/Pervasive/Oracle/Oracle PLSQL,
   communications, hardware integration, CLI, parsers, scripting engines, plugins, database administration tools (Oracle),
@@ -134,7 +134,7 @@ Video analytic software - Core recognition system and all other modules (
 - Hardware integration plugins and management consoles.
 
 
-## 1998-1999 Altey Laboratories - System Engineer
+### 1998-1999 Altey Laboratories - System Engineer
 
 **Skills**: Healthtech software, Medical equipment, Medical hardware, Interfaces with medical hardware, Backend,
   Integration plugins, MUMPS/M, COM, DCOM, WinAPI, Interbase, Firebird, DBF, parsing,
@@ -144,7 +144,7 @@ Video analytic software - Core recognition system and all other modules (
 **Key contributions**: Full integration of hardware and software from start to implementation for various clients.
 
 
-## 1995-1998 Prais Telecom - Software Developer
+### 1995-1998 Prais Telecom - Software Developer
 
 **Skills**: Telephony software, GUI, Hardware interfaces, Embedded, Communications, WinAPI (16/32).
   (Delphi, C++, Watcom Optima, embedded systems, assembler)
@@ -154,7 +154,7 @@ Video analytic software - Core recognition system and all other modules (
 - Universal maintenance system with rich possibilities and scripting.
 
 
-## 1991-1995 Moscow State Mining University - GIS Developer
+### 1991-1995 Moscow State Mining University - GIS Developer
 
 **Field**: Department of Surveying and Geology
 
@@ -163,7 +163,7 @@ Video analytic software - Core recognition system and all other modules (
 **Key contributions**: Surveying management software, UI frameworks with supporting various I/O devices.
 
 
-## 1987-1991 Moscow Instrument-building College
+### 1987-1991 Moscow Instrument-building College
 
 **Field**: Computer Science, Software Engineering, Applied Mathematics, Analog Devices
 

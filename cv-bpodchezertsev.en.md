@@ -39,7 +39,7 @@ LinkedIn profile: https://www.linkedin.com/in/boris-podchezertsev/
 - Installation and maintenance
 
 ### Pet-projects:
-- Libraries, alogrithms and data structures (Java, C#, Javascript, Rust, C++, Python)
+- Libraries, algorithms and data structures (Java, C#, Javascript, Rust, C++, Python)
 - Aircraft designs (overall, frame, propulsion), testbeds (C++, Python, OpenSCAD)
 - Literature project of hard sci-fi novell in the nearest future
 
