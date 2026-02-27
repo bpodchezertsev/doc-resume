@@ -3,8 +3,6 @@
 
 ## Profile
 
----
-
 - **LinkedIn profile**: https://www.linkedin.com/in/boris-podchezertsev/
 - **Email**: speakingfish@gmail.com
 - **Location**: Yerevan, Armenia
@@ -53,8 +51,6 @@
 
 
 ## Professional Experience
-
----
 
 ### Founder, Wings Of Mine
 2024 to Present
@@ -172,8 +168,6 @@ Video analytic software - Core recognition system and all other modules (
 
 
 ## Education
-
----
 
 ### Moscow State Mining University
 1991 to 1995
