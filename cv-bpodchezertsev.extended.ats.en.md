@@ -11,7 +11,7 @@
 ### Skills
 - **Work performed**: Software development, prototyping, R&D, data modeling, 3D modeling, documentation, analytical reports
 - **Design**: Declarative design, functional design, domain-driven design, metadata-driven architecture
-- **Scope**: Insurance software, GIS, fintech, billing, trading, medical, low-level and system programming, embedded software, hardware management software, computer vision, video analytics, SAAS
+- **Scope**: Insurance software, GIS, fintech, billing, trading, medical, low-level and system programming, embedded software, hardware management software, computer vision, video analytics, SAAS, scientific applications
 - **Hardware and manufacturing**: Design, manufacturing, embedded systems, testbeds, geosurveying, tooling, machine tool operation, milling machines, CNC, assembly, installation, hand tool operation
 - **Software types**: backend, frontend, web, CLI, GUI, Rich UI, console applications, plugins, hardware interfaces, drivers, embedded systems, libraries, frameworks
 - **Codebase management**: porting, software migration, data models, global cleanup, optimization, refactoring, code generation, reverse engineering, layering, monolith splitting, sandboxing, generalization, productivization
@@ -37,12 +37,15 @@
 - Also: Android, SWT, GWT, libGDX
 
 ### Hardware-related works
-- Telephony, medical, maintenance software, billing services, embedded software, scriptable management consoles (C++, Delphi/Lazarus, Java, JavaCard)
-- Computer Vision (OpenCV) (C++, Delphi/Lazarus, Java)
-- Spy tools, reverse-engineering (C++, Delphi, Java)
-- Testbeds (C++, Delphi)
-- Milling machines, CNC, OpenSCAD modeling
-- Installation and maintenance
+- Facilities I've worked at: manufacturing plants (electronics, furniture), research centers (test benches), mining operations (geosurveying).
+- Machine and tool operation: milling and other machines, tooling, machine operation, assembly, installation, and maintenance, as well as hand tool operation.
+- Hardware & design: rigs, test benches, furniture, drones, DIY.
+- Furniture: modeling, creation/construction, installation of furniture, kitchens, built-in furniture.
+- Repair: replacement of electrical wiring, ventilation; dismantling, leveling, pouring, sealing of floors, etc.
+- Troubleshoot: I mainly troubleshoot hardware issues in many projects, including side jobs.
+- Installation and maintenance: various hardware including medical devices.
+- Modeling: OpenSCAD modeling, Python calculations
+- Hardware-related software: I've developed software for telephony, medical, maintenance, billing, computer vision (OpenCV), spy tools, reverse-engineering, testbeds, embedded software, scriptable management consoles (C++, Delphi/Lazarus, Java, JavaCard)
 
 ### Pet-projects:
 - Libraries, algorithms and data structures (Java, C#, Javascript, Rust, C++, Python)

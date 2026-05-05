@@ -26,3 +26,5 @@ Sincerely, <br>
 Boris Podchezertsev.
 
 https://www.linkedin.com/in/boris-podchezertsev/
+
+PS. Link to my various resume/CV versions: https://github.com/bpodchezertsev/doc-resume/
